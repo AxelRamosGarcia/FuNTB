@@ -1,0 +1,22 @@
+name: funtb
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - ast
+  - csv
+  - json
+  - matplotlib
+  - networkx
+  - numpy
+  - operator
+  - pandas
+  - requests
+  - seaborn
+  - scipy
+  - statistics
+  - pip
+  - pip:
+      - paretoset
+      - itertools
