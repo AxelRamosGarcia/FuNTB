@@ -125,3 +125,20 @@ python FunTB.py VIH_network MTBSeq_HIV_Data.txt 30 0.2 0.1 0.7 VIH_positive_Samp
 This will generate three XML-network format files which you can find within the Networks_files directory.
 
 The FunTB full analysis took about 5 minutes by Intel(R) Xeon(R) CPU E5-2676 v3 @ 2.40GHz with 8 CPU cores.
+
+## 3. Environment Setup (Optional)
+
+You can quickly set up a virtual environment using the provided *`funtb.yml`* file to ensure that all the dependencies are installed automatically.
+
+
+#### 1. Create the environment:
+```bash
+conda env create -f funtb.yml
+```
+
+#### 2. Activate the environment
+```bash
+conda activate funtb
+```
+
+This will create a dedicated environment with all necessary dependencies pre-installed. You can now proceed with the usage steps.
