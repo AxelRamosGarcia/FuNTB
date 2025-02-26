@@ -57,3 +57,103 @@ The script dynamically adapts to different metadata columns. Any metadata catego
 - [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Features
+
+- Analyze genetic variations related to SNPs.
+- Construct phenotype-centric networks based on genetic data.
+- Visualize and hypothesize complex relationships between genes and phenotypes.
+
+## Setup
+
+Ensure you have these or similar versions installed on your system. 
+- Python: 3.11.5
+- Pandas: 2.0.2
+- Numpy: 1.24.3
+- Matplotlib: 3.7.1
+- Networkx: 3.1
+- Seaborn: 0.13.0
+- Scipy: 1.11.1
+
+## Usage
+
+### Variation dictionary creation script
+
+The script processes three input parameters:
+1. The **´MTBSeq´** output file, including its file path.
+2. The **clinical data** file in CSV format.
+3. The name for the resulting output file.
+
+To run the script, use the following command: 
+
+```bash
+python FunTB_dictionary.py MTBseq_file.tab Clinical_Data.csv Dictionary_Output_File_name
+```
+
+The script generates a `txt` file summarizing information for each sample. The output follows this structure:
+- Sample 1
+  - Gene 1
+    - Total variations
+      - integer representing number of alterations.
+    - variation positions
+      - variable position: frequency of variation
+    - symbolic mutations
+      - variation symbol: frequency of appearances
+For example:
+
+Sample 1
+  Gene 1
+    Total Variations
+      - 10
+    Variation Positions
+      - Position 345: 50
+      - Position 678: 30
+    Symbolic Mutations
+      - 'A623T'
+      - 'G904A'
+
+### Phenotype-based samples lists generation script
+
+This script requires two input parameters:
+1. The clinical data file in CSV format.
+2. The name for the resulting output files.
+
+To run the script, use the following command:
+
+```bash
+python Sample_Grouping__Creation.py Clinical_Data.csv Column_of_Interest_1 Column_of_Interest_2 Column_of_Interest_3 ... Column_of_Interest_n
+```
+The script generates a series of `txt` files, each containing the IDs of samples that share common clinical values. THe output format is as follows:
+
+- Group name 1
+
+| sample id   |
+|     :---:   |
+| sample id 1 |
+| sample id 2 |
+|      .      |
+|      .      |
+|      .      |
+| sample id n |
+|             |
+
+### Phenotype-centric and gene-surrounded networks structuration script
+
+The third script requires a minimum of eight parameters as input. First, a string is needed to define the output file name for the network. Second, a TXT file is required to specify the variation dictionary file name. Third, an integer is needed to determine the percentage of conserved genes, ranging from 0 to 100. The fourth parameter is the alpha value, which determines the weight for ponderating the Alteration Density Score (ADS) contribution. The fifth parameter is the beta coefficient, responsible for regulating the contribution of the Dominant Altered Gene Score (DAGS). Following that, we have the gamma coefficient, which focuses on regulating the Cluster Diversity Score (CDAS). Each of these scores is then summed to calculate the Comprehensive Alteration Impact Score (CAIS), reflected in the node size. Finally, the last parameters are the names of files corresponding to lists of samples (at least two) from groups with contrasting phenotypical features. To run this script, you have to execute the following-like command:
+
+```bash
+python FuNTB.py Network_name Variation_dictionary_file Percentage_factor alpha_coefficient beta_coefficient gamma_coefficient Group_list_1 Group_list_2 ... Group_list_n
+```
+
+The output generated are three XML-Network file formats (GraphML, GEXF, GML) an input format for Cytoscape, a network software where we can visualize and edit our resulting genes' relationships. The output format could be summarized in a table like this:
+
+| Source Node  |  Target Node   | CAIS Score | Edge Color | Node Size | Edge Width |
+|    :---:     |     :---:      |  :---:     |    :---:   |   :---:   |    :---:   |
+|     acee     |   Sensitive    |    7       |    blue    |     5     |     1.0    |
+|     rpoc     |   Resistant    |    3       |    green   |     2     |     0.3    |
+
+Once you import the output file in Cytoscape, you can map the different networks' parameters and get the editable format to set some extra settings like node position and distribution, node group based on desired or similar characteristics.  Finally, save your final network image.
+
+## License
+
+*`FUN-TB`* is available under MIT License. See License.txt for more details.
