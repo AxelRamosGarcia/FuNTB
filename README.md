@@ -4,9 +4,9 @@
 
 *`FuNTB`* consists of three core scripts:
 
-1. *Variation Dictionary Creation*: Generates a dictionary of variations found in the `MTBSeq` output.
-2. *Phenotype-Based Sample List Generation*: Generates a dictionary of variations found in the `MTBSeq` output.
-3. *Phenotype-Centric and Gene-surrounded Network Structuring*: Constructs networks based on the relationship between phenotypic traits and gene alterations, making it easy to identify key genetic markers associated with specific phenotypes.
+1. **Variation Dictionary Creation**: Generates a dictionary of variations found in the `MTBSeq` output.
+2. **Phenotype-Based Sample List Generation**: Generates a dictionary of variations found in the `MTBSeq` output.
+3. **Phenotype-Centric and Gene-surrounded Network Structuring**: Constructs networks based on the relationship between phenotypic traits and gene alterations, making it easy to identify key genetic markers associated with specific phenotypes.
 
 ## Variation dictionary creation script
 This script aims to create a Python dictionary object from an MTBSeq V.1.0 file. The dictionary summarizes the presence of SNPs, along with the position and frequency parameters of each altered gene per sample.
