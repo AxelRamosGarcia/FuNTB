@@ -139,8 +139,15 @@ The script generates a series of `txt` files, each containing the IDs of samples
 
 ### Phenotype-centric and gene-surrounded networks structuration script
 
-The third script requires a minimum of eight parameters as input. First, a string is needed to define the output file name for the network. Second, a TXT file is required to specify the variation dictionary file name. Third, an integer is needed to determine the percentage of conserved genes, ranging from 0 to 100. The fourth parameter is the alpha value, which determines the weight for ponderating the Alteration Density Score (ADS) contribution. The fifth parameter is the beta coefficient, responsible for regulating the contribution of the Dominant Altered Gene Score (DAGS). Following that, we have the gamma coefficient, which focuses on regulating the Cluster Diversity Score (CDAS). Each of these scores is then summed to calculate the Comprehensive Alteration Impact Score (CAIS), reflected in the node size. Finally, the last parameters are the names of files corresponding to lists of samples (at least two) from groups with contrasting phenotypical features. To run this script, you have to execute the following-like command:
-
+The third script requires a minimum of eight input parameters:
+- Network Name (`string`): Defines the output file name for the network.
+- Variation Dictionary File (`txt`): Specifies the file containing variation data.
+- Number of Pareto's frontiers (`integer`): Determines the number of pareto frontiers will take into account to keep genes in the final network.
+- Alpha coefficient (`float`): Weighs the contribution of the Alteration Density Score (ADS), whose optimized value is 0.9385527090157504.
+- Beta coefficient (`float`): Weighs the contribution of the Alteration Density Score (DAGS), whose optimized value is 0.0007787658410143285.
+- Gamma coefficient (`float`): Weighs the contribution of the Alteration Density Score (CDAS), whose optimized value is 0.060668525143235286.
+- Sample Lists Files (`txt`): Contain lists of samples from groups with contrasting phenotypic features.
+  
 ```bash
 python FuNTB.py Network_name Variation_dictionary_file Percentage_factor alpha_coefficient beta_coefficient gamma_coefficient Group_list_1 Group_list_2 ... Group_list_n
 ```
