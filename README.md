@@ -147,7 +147,11 @@ The third script requires a minimum of eight input parameters:
 - Beta coefficient (`float`): Weighs the contribution of the Alteration Density Score (DAGS), whose optimized value is 0.0007787658410143285.
 - Gamma coefficient (`float`): Weighs the contribution of the Alteration Density Score (CDAS), whose optimized value is 0.060668525143235286.
 - Sample Lists Files (`txt`): Contain lists of samples from groups with contrasting phenotypic features.
-  
+
+Each of these scores (ADS, DAGS, and CDAS) contributes to calculating the Comprehensive Alteration Impact Score (CAIS), which determines the node sizes in the network.
+
+To execute this script, run the following command:
+
 ```bash
 python FuNTB.py Network_name Variation_dictionary_file Percentage_factor alpha_coefficient beta_coefficient gamma_coefficient Group_list_1 Group_list_2 ... Group_list_n
 ```
