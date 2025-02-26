@@ -26,11 +26,12 @@ This second script aims to generate a series of lists containing sample IDs. The
 - *Other_metadata:* Any additional information relevant to the study.
 
 #### Example Clinical Data File (`sample_clinical_data.csv`):
-Sample_ID,AGE,GENDER,YEAR_OF_SAMPLE,SEQUENCING_TECHNOLOGY,GEOGRAPHIC_LOCATION,DISEASE_STATUS,TREATMENT
-S1,45,Male,2021,Illumina,USA,HIV positive,Antiretrovirals
-S2,60,Female,2019,Nanopore,Brazil,Tuberculosis,Antibiotics
-S3,30,Male,2020,PacBio,Germany,Healthy,None
-S4,50,Female,2022,Illumina,Canada,HIV positive,Antiretrovirals
+| Sample_ID | AGE | GENDER | YEAR_OF_SAMPLE | SEQUENCING_TECHNOLOGY | GEOGRAPHIC_LOCATION | DISEASE_STATUS  | TREATMENT       |
+|-----------|-----|--------|----------------|-----------------------|---------------------|-----------------|----------------|
+| S1        | 45  | Male   | 2021           | Illumina              | USA                 | HIV positive    | Antiretrovirals |
+| S2        | 60  | Female | 2019           | Nanopore              | Brazil              | Tuberculosis    | Antibiotics     |
+| S3        | 30  | Male   | 2020           | PacBio                | Germany             | Healthy         | None           |
+| S4        | 50  | Female | 2022           | Illumina              | Canada              | HIV positive    | Antiretrovirals |
 
 #### File Requirements:
 1. The file must be in CSV format.
