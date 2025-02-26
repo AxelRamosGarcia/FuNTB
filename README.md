@@ -48,3 +48,12 @@ The script dynamically adapts to different metadata columns. Any metadata catego
 
 ## Phenotype-centric and gene-surrounded networks structuration script.
 
+## Table of Contents
+
+- [Features](#features)
+- [Set Up](#Setup)
+- [Usage](#usage)
+- [Documentation](#documentation)
+- [Examples](#examples)
+- [Contributing](#contributing)
+- [License](#license)
