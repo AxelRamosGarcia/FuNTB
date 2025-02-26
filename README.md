@@ -8,6 +8,10 @@
 2. *Phenotype-Based Sample List Generation*: Generates a dictionary of variations found in the `MTBSeq` output.
 3. *Phenotype-Centric and Gene-surrounded Network Structuring*: Constructs networks based on the relationship between phenotypic traits and gene alterations, making it easy to identify key genetic markers associated with specific phenotypes.
 
+## Variation dictionary creation script
+This script aims to create a Python dictionary object from an MTBSeq V.1.0 file. The dictionary summarizes the presence of SNPs, along with the position and frequency parameters of each altered gene per sample.
+
+
 
 ## Phenotype-based samples lists generation script
 This second script aims to generate a series of lists containing sample IDs. These lists are constructed such that samples within the same list share common phenotypical features and clinical values. The input CSV file must follow the format below to ensure that the clinical data is processed correctly.
@@ -40,4 +44,7 @@ This second script aims to generate a series of lists containing sample IDs. The
 4. Ensure there are no extra spaces or typos in column names or values.
 
 #### Flexible processing
-The script dynamically adapts to different metadata columns. Any metadata category can be used for grouping and filtering as long as the column name is correctly provided when running the script.
+The script dynamically adapts to different metadata columns. Any metadata category can be used for grouping and filtering if the column name is correctly provided when running the script.
+
+## Phenotype-centric and gene-surrounded networks structuration script.
+
