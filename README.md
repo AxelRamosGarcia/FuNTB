@@ -25,3 +25,18 @@ This second script aims to generate a series of lists containing sample IDs. The
 - *Treatment:* Treatment the individual is receiving (if applicable, e.g., `Antibiotic`, `Antiretrovirals`, `None`).
 - *Other_metadata:* Any additional information relevant to the study.
 
+#### Example Clinical Data File (`sample_clinical_data.csv`):
+Sample_ID,AGE,GENDER,YEAR_OF_SAMPLE,SEQUENCING_TECHNOLOGY,GEOGRAPHIC_LOCATION,DISEASE_STATUS,TREATMENT
+S1,45,Male,2021,Illumina,USA,HIV positive,Antiretrovirals
+S2,60,Female,2019,Nanopore,Brazil,Tuberculosis,Antibiotics
+S3,30,Male,2020,PacBio,Germany,Healthy,None
+S4,50,Female,2022,Illumina,Canada,HIV positive,Antiretrovirals
+
+#### File Requirements:
+1. The file must be in CSV format.
+2. The first column (`Sample_ID`) is mandatory and should contain unique identifiers.
+3. Other columns can vary based on the dataset, but all values within a column should be consistent (e.g., no mixing of strings and numeric values in the same column).
+4. Ensure there are no extra spaces or typos in column names or values.
+
+#### Flexible processing
+The script dynamically adapts to different metadata columns. Any metadata category can be used for grouping and filtering as long as the column name is correctly provided when running the script.
