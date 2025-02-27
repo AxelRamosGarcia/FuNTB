@@ -169,11 +169,11 @@ Once you import the output file in Cytoscape, you can map the different networks
 ## 👥 Contributing
 
 - **MSc Axel Alejandro Ramos García** ([GitHub](https://github.com/AxelRamosGarcia)) – Main Developer, Maintainer, Bug Fixes & Optimization
-- **PhD Paulina Mayel Mejia Ponce** – COmputational biology for features generation.
-- **PhD Alejandro Santos Díaz** –
-- **PhD Juan Emmanuel Martinez Ledesma** –
-- **PhD Nelly Sélem Mojica** –
-- **PhD Cuahtémoc Licona Cassani** -
+- **PhD Paulina Mayel Mejia Ponce** – Computational biology for features generation.
+- **PhD Alejandro Santos Díaz** – Algorithms advisor.
+- **PhD Juan Emmanuel Martinez Ledesma** – Statistics advisor.
+- **PhD Nelly Sélem Mojica** – Scores development.
+- **PhD Cuahtémoc Licona Cassani** - Biology interpretation.
 
 
 ## License
