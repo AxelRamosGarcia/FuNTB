@@ -57,6 +57,7 @@ The script dynamically adapts to different metadata columns. Any metadata catego
 - [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
+- [a relative link](install.md)
 
 ## Features
 
