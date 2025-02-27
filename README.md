@@ -72,7 +72,7 @@ In summary, the script provides a comprehensive analysis of genetic variations, 
 ## Table of Contents
 
 - [Features](#-features)
-- [Setup](#-setup)
+- [Setup](#setup)
 - [Usage](#-usage)
 - [Documentation](#-documentation)
 - [Example](https://colab.research.google.com/drive/1eCRk_MqbV8FBXqYg2M0kppKe5qcT6XvT#scrollTo=s-bzMeQjFMcT)
