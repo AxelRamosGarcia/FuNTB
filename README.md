@@ -173,7 +173,7 @@ Once you import the output file in Cytoscape, you can map the different networks
 - **PhD Alejandro Santos Díaz** – Algorithms advisor.
 - **PhD Juan Emmanuel Martinez Ledesma** – Statistics advisor.
 - **PhD Nelly Sélem Mojica** – Scores development.
-- **PhD Cuahtémoc Licona Cassani** - Biology interpretation.
+- **PhD Cuahtémoc Licona Cassani** - Biological interpretation.
 
 
 ## 📜 License
