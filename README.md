@@ -12,7 +12,7 @@
 This script aims to create a Python dictionary object from an MTBSeq V.1.0 file. The dictionary summarizes the presence of SNPs, along with the position and frequency parameters of each altered gene per sample.
 
 <p align="center">
-  <img src="Images/Github (1).png"/>
+  <img src="images/Github (1).png"/>
 </p>
 
 
@@ -20,7 +20,7 @@ This script aims to create a Python dictionary object from an MTBSeq V.1.0 file.
 This second script aims to generate a series of lists containing sample IDs. These lists are constructed such that samples within the same list share common phenotypical features and clinical values. The input CSV file must follow the format below to ensure that the clinical data is processed correctly.
 
 <p align="center">
-  <img src="Images/Github (2).png"/>
+  <img src="images/Github (2).png"/>
 </p>
 
 ### Required Columns:
@@ -62,7 +62,7 @@ The script visualizes the results by representing variations in node size and th
 In summary, the script provides a comprehensive analysis of genetic variations, emphasizing their presence or absence in different phenotypic groups. The resulting network visualization offers insights into the relationships between genetic alterations and phenotypic characteristics.
 
 <p align="center">
-  <img src="Images/Github (3).png"/>
+  <img src="images/Github (3).png"/>
 </p>
 
 ## Table of Contents
