@@ -59,13 +59,13 @@ The script dynamically adapts to different metadata columns. Any metadata catego
 - [License](#license)
 - [Install](install.md)
 
-## Features
+## 🚀 Features
 
 - Analyze genetic variations related to SNPs.
 - Construct phenotype-centric networks based on genetic data.
 - Visualize and hypothesize complex relationships between genes and phenotypes.
 
-## Setup
+## ⚙️ Setup
 
 Ensure you have these or similar versions installed on your system. 
 - Python: 3.11.5
@@ -76,7 +76,7 @@ Ensure you have these or similar versions installed on your system.
 - Seaborn: 0.13.0
 - Scipy: 1.11.1
 
-## Usage
+## 📌 Usage
 
 ### Variation dictionary creation script
 
@@ -176,6 +176,6 @@ Once you import the output file in Cytoscape, you can map the different networks
 - **PhD Cuahtémoc Licona Cassani** - Biology interpretation.
 
 
-## License
+## 📜 License
 
 *`FUN-TB`* is available under MIT License. See License.txt for more details.
