@@ -11,6 +11,9 @@
 ## Variation dictionary creation script
 This script aims to create a Python dictionary object from an MTBSeq V.1.0 file. The dictionary summarizes the presence of SNPs, along with the position and frequency parameters of each altered gene per sample.
 
+<p align="center">
+  <img src="Images/Script_Three.png"/>
+</p>
 
 
 ## Phenotype-based samples lists generation script
