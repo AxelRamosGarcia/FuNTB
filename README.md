@@ -86,6 +86,7 @@ In summary, the script provides a comprehensive analysis of genetic variations, 
 - Construct phenotype-centric networks based on genetic data.
 - Visualize and hypothesize complex relationships between genes and phenotypes.
 
+<a name="setup"></a>
 ## ⚙️ Setup
 
 Ensure you have these or similar versions installed on your system. 
