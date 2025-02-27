@@ -166,6 +166,16 @@ The output generated are three XML-Network file formats (GraphML, GEXF, GML) an 
 
 Once you import the output file in Cytoscape, you can map the different networks' parameters and get the editable format to set some extra settings like node position and distribution, node group based on desired or similar characteristics.  Finally, save your final network image.
 
+## 👥 Contributing
+
+- **MSc Axel Alejandro Ramos García** ([GitHub](https://github.com/AxelRamosGarcia)) – Main Developer, Maintainer, Bug Fixes & Optimization
+- **PhD Paulina Mayel Mejia Ponce** – COmputational biology for features generation.
+- **PhD Alejandro Santos Díaz** –
+- **PhD Juan Emmanuel Martinez Ledesma** –
+- **PhD Nelly Sélem Mojica** –
+- **PhD Cuahtémoc Licona Cassani** -
+
+
 ## License
 
 *`FUN-TB`* is available under MIT License. See License.txt for more details.
