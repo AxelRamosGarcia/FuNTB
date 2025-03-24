@@ -90,7 +90,7 @@ Use GitHub clone to download
 
 ```bash
 cd $HOME  # or wherever you want
-git clone https://github.com/ind-genomics/FUN-TB.git
+git clone https://github.com/AxelRamosGarcia/FuNTB.git
 export FunTB_DIR=$(realpath FunTB/)
 # You can put this export command in the your .bashrc file
 # so that you don't need to type every time you run the FunTB
