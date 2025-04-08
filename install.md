@@ -112,9 +112,9 @@ This dataset contains 462 clinical samples from individuals with tuberculosis (T
 Purpose
 This dataset is designed to support analyses of:
 
-1.- Associations between clinical factors (e.g., HIV, diabetes) and drug resistance.
-2.- Co-resistance patterns across first- and second-line TB drugs.
-3.- Predictive modeling of resistance to guide treatment regimens.
+- 1.- Associations between clinical factors (e.g., HIV, diabetes) and drug resistance.
+- 2.- Co-resistance patterns across first- and second-line TB drugs.
+- 3.- Predictive modeling of resistance to guide treatment regimens.
 
 Format
 - Structured as a CSV file with rows representing samples and columns as variables.
