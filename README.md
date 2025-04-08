@@ -144,7 +144,7 @@ This script requires two input parameters:
 To run the script, use the following command:
 
 ```bash
-python Sample_Grouping__Creation.py Clinical_Data.csv Column_of_Interest_1 Column_of_Interest_2 Column_of_Interest_3 ... Column_of_Interest_n
+python Sample_Grouping_Creation.py Clinical_Data.csv Column_of_Interest_1 Column_of_Interest_2 Column_of_Interest_3 ... Column_of_Interest_n
 ```
 The script generates a series of `txt` files, each containing the IDs of samples that share common clinical values. THe output format is as follows:
 
