@@ -126,6 +126,12 @@ Once located within the FunTB directory the first step is to generate the variat
 ```bash
 python FunTB_dictionary.py MTBseq_file.tab test_clinical_data.csv
 ```
+or
+
+```bash
+python FunTB_dictionary_vcf.py
+```
+
 After the execution of this script a TXT file will be generated in the *`Variations_dictionaries`* which will contain the information of every sample and those genes that present any alteration.
 
 ### 2. Clinical Sample Grouping Test Dataset
