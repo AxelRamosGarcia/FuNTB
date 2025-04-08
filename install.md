@@ -100,12 +100,12 @@ export FunTB_DIR=$(realpath FunTB/)
 
 This dataset contains 462 clinical samples from individuals with tuberculosis (TB), annotated with key phenotypic and clinical characteristics relevant to drug resistance profiling. The dataset includes:
 
-#### Clinical covariates:
+### Clinical covariates:
 
 - HIV: HIV co-infection status
 - Diabetes: Diabetes comorbidity status
 
-#### Drug resistance phenotypes:
+### Drug resistance phenotypes:
 - Binary indicators (0 = susceptible, 1 = resistant) for 14 anti-TB drugs:
 - DLM (Delamanid), CFZ (Clofazimine), MXF (Moxifloxacin), BDQ (Bedaquiline), INH (Isoniazid), LZD (Linezolid), RIF (Rifampicin), RFB (Rifabutin), LEV (Levofloxacin), EMB (Ethambutol), ETH (Ethionamide), PAS (Para-aminosalicylic acid), KAN (Kanamycin), AMI (Amikacin).
 
@@ -120,7 +120,7 @@ Format
 - Structured as a CSV file with rows representing samples and columns as variables.
 - Binary phenotypes (S/R).
 
-#### 1. Variation dictionary creation script
+### 1. Variation dictionary creation script
 
 Once located within the FunTB directory the first step is to generate the variation dictionary file from MTBSeq V.0.1 output, in order to do this, run the following command:
 ```bash
@@ -128,7 +128,7 @@ python FunTB_dictionary.py MTBSeq_HIV_Data.tab Clinical_Data_HIV.csv
 ```
 After the execution of this script a TXT file will be generated in the *`Variations_dictionaries`* which will contain the information of every sample and those genes that present any alteration.
 
-#### 2. Clinical Sample Grouping Test Dataset
+### 2. Clinical Sample Grouping Test Dataset
 
 Overview:
 This test dataset for Script 2 is a clinical metadata CSV file consisting of key clinical and phenotypic variables for each sample, such as HIV co-infection status, diabetes status, and binary indicators for resistance to 14 anti-TB drugs. This data supports the grouping of samples based on user-defined filtering conditions.
@@ -151,7 +151,7 @@ python Sample_Grouping_Creation.py test_clinical_data.csv DIABETES
 ```
 The execution of this script will generate a series of TXTs files which will contain the samples of each of the groups with common shared clinical features.
 
-#### 3. Network Construction Test Dataset
+### 3. Network Construction Test Dataset
 
 Overview:
 The test dataset for Script 3 includes the outputs from Scripts 1 and 2. This script integrates the variation dictionary and the grouped sample ID lists to generate an XML-based network file that visualizes the associations between genes and phenotypic groups.
@@ -182,12 +182,12 @@ The FunTB full analysis took about 5 minutes by Intel(R) Xeon(R) CPU E5-2676 v3 
 You can quickly set up a virtual environment using the provided *`funtb.yml`* file to ensure that all the dependencies are installed automatically.
 
 
-#### 1. Create the environment:
+### 1. Create the environment:
 ```bash
 conda env create -f funtb.yml
 ```
 
-#### 2. Activate the environment
+### 2. Activate the environment
 ```bash
 conda activate funtb
 ```
