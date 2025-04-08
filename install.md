@@ -98,7 +98,27 @@ export FunTB_DIR=$(realpath FunTB/)
 
 ## Test run
 
-Run FunTB scripts with test dataset
+This dataset contains 462 clinical samples from individuals with tuberculosis (TB), annotated with key phenotypic and clinical characteristics relevant to drug resistance profiling. The dataset includes:
+
+#### Clinical covariates:
+
+- HIV: HIV co-infection status
+- Diabetes: Diabetes comorbidity status
+
+#### Drug resistance phenotypes:
+- Binary indicators (0 = susceptible, 1 = resistant) for 14 anti-TB drugs:
+- DLM (Delamanid), CFZ (Clofazimine), MXF (Moxifloxacin), BDQ (Bedaquiline), INH (Isoniazid), LZD (Linezolid), RIF (Rifampicin), RFB (Rifabutin), LEV (Levofloxacin), EMB (Ethambutol), ETH (Ethionamide), PAS (Para-aminosalicylic acid), KAN (Kanamycin), AMI (Amikacin).
+
+Purpose
+This dataset is designed to support analyses of:
+
+1.- Associations between clinical factors (e.g., HIV, diabetes) and drug resistance.
+2.- Co-resistance patterns across first- and second-line TB drugs.
+3.- Predictive modeling of resistance to guide treatment regimens.
+
+Format
+- Structured as a CSV file with rows representing samples and columns as variables.
+- Binary phenotypes (S/R).
 
 #### 1. Variation dictionary creation script
 
