@@ -112,7 +112,7 @@ After the execution of this script a TXT file will be generated in the *`Variati
 
 Then to generate the samples' lists, run the following command:
 ```bash
-python Sample_Grouping_Creation.py Clinical_Data_HIV.csv
+python Sample_Grouping_Creation.py test_clinical_data.csv DIABETES
 ```
 The execution of this script will generate a series of TXTs files which will contain the samples of each of the groups with common shared clinical features.
 
@@ -120,7 +120,8 @@ The execution of this script will generate a series of TXTs files which will con
 
 Finally, to generate the network files, run the following command:
 ```bash
-python FunTB.py VIH_network MTBSeq_HIV_Data.txt 30 0.2 0.1 0.7 VIH_positive_Samples.txt VIH_negative_Samples.txt
+python FuNTB.py test_network test_dictionary.txt 3 0.9385527090157504 0.0007787658410143285 0.060668525143235286 
+test_positive_Samples.txt test_negative_Samples.txt
 ```
 This will generate three XML-network format files which you can find within the Networks_files directory.
 
