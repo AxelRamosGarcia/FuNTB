@@ -1,0 +1,85 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##bcftoolsVersion=1.20+htslib-1.20
+##bcftoolsCommand=mpileup -f /home/paumayell/anaconda3/envs/tb-profiler-v.6.2.1/share/tbprofiler//tbdb.fasta -a DP,AD,ADF,ADR -r Chromosome:1-1524 bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1_1524.tmp.bam
+##reference=file:///home/paumayell/anaconda3/envs/tb-profiler-v.6.2.1/share/tbprofiler//tbdb.fasta
+##contig=<ID=Chromosome,length=4411532>
+##ALT=<ID=*,Description="Represents allele(s) other than observed.">
+##INFO=<ID=INDEL,Number=0,Type=Flag,Description="Indicates that the variant is an INDEL.">
+##INFO=<ID=IDV,Number=1,Type=Integer,Description="Maximum number of raw reads supporting an indel">
+##INFO=<ID=IMF,Number=1,Type=Float,Description="Maximum fraction of raw reads supporting an indel">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Raw read depth">
+##INFO=<ID=VDB,Number=1,Type=Float,Description="Variant Distance Bias for filtering splice-site artefacts in RNA-seq data (bigger is better)",Version="3">
+##INFO=<ID=RPBZ,Number=1,Type=Float,Description="Mann-Whitney U-z test of Read Position Bias (closer to 0 is better)">
+##INFO=<ID=MQBZ,Number=1,Type=Float,Description="Mann-Whitney U-z test of Mapping Quality Bias (closer to 0 is better)">
+##INFO=<ID=BQBZ,Number=1,Type=Float,Description="Mann-Whitney U-z test of Base Quality Bias (closer to 0 is better)">
+##INFO=<ID=MQSBZ,Number=1,Type=Float,Description="Mann-Whitney U-z test of Mapping Quality vs Strand Bias (closer to 0 is better)">
+##INFO=<ID=SCBZ,Number=1,Type=Float,Description="Mann-Whitney U-z test of Soft-Clip Length Bias (closer to 0 is better)">
+##INFO=<ID=SGB,Number=1,Type=Float,Description="Segregation based metric, http://samtools.github.io/bcftools/rd-SegBias.pdf">
+##INFO=<ID=MQ0F,Number=1,Type=Float,Description="Fraction of MQ0 reads (smaller is better)">
+##FORMAT=<ID=PL,Number=G,Type=Integer,Description="List of Phred-scaled genotype likelihoods">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Number of high-quality bases">
+##FORMAT=<ID=AD,Number=R,Type=Integer,Description="Allelic depths (high-quality bases)">
+##FORMAT=<ID=ADF,Number=R,Type=Integer,Description="Allelic depths on the forward strand (high-quality bases)">
+##FORMAT=<ID=ADR,Number=R,Type=Integer,Description="Allelic depths on the reverse strand (high-quality bases)">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##INFO=<ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes for each ALT allele, in the same order as listed">
+##INFO=<ID=AN,Number=1,Type=Integer,Description="Total number of alleles in called genotypes">
+##INFO=<ID=DP4,Number=4,Type=Integer,Description="Number of high-quality ref-forward , ref-reverse, alt-forward and alt-reverse bases">
+##INFO=<ID=MQ,Number=1,Type=Integer,Description="Average mapping quality">
+##bcftools_callVersion=1.20+htslib-1.20
+##bcftools_callCommand=call -mv; Date=Tue May 28 19:00:00 2024
+##bcftools_normVersion=1.20+htslib-1.20
+##bcftools_normCommand=norm -f /home/paumayell/anaconda3/envs/tb-profiler-v.6.2.1/share/tbprofiler//tbdb.fasta -Oz -o bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1_1524.vcf.gz; Date=Tue May 28 19:00:00 2024
+##bcftools_concatVersion=1.20+htslib-1.20
+##bcftools_concatCommand=concat -aD bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1_1524.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_4933_7267.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_7068_9818.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_13133_13911.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_490545_491793.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_574479_576790.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_619500_620865.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_656010_657739.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_731680_732406.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_733853_734970.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_759342_763325.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_763127_767320.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_775586_778680.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_778477_779624.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_778790_779487.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_781126_781934.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_800106_801462.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1253074_1254783.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1302606_1305501.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1364162_1365186.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1406081_1407604.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1416181_1418048.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1460802_1461290.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1471498_1473382.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1473408_1476795.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1673148_1674183.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1673189_1675011.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1833247_1834987.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1853358_1854388.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_1917506_1918746.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2062809_2065010.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2101651_2103337.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2153889_2156842.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2167649_2170934.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2221719_2223825.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2288681_2290323.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2517915_2519365.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2714124_2715832.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2725899_2726780.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2746135_2747798.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2782366_2786169.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2859300_2860640.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2986639_2987615.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2995772_2996737.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_2996539_2998055.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3064515_3067372.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3067193_3068161.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3073680_3074671.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3086620_3087935.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3338868_3339762.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3448253_3449991.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3568401_3569280.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3611959_3613847.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3623159_3625110.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3624910_3626860.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3626663_3627924.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3640207_3641538.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3641335_3642881.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3840194_3841620.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3877464_3879240.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_3986612_3987299.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_4038158_4041013.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_4043862_4046428.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_4138202_4140002.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_4237683_4243147.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_4242947_4246517.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_4246314_4249810.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_4266953_4269124.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_4268925_4270084.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_4326004_4330174.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_4327328_4328199.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_4338171_4338961.vcf.gz bb1e14df-e922-4d58-a62f-b7c681431bdc.Chromosome_4407528_4408481.vcf.gz; Date=Tue May 28 19:00:03 2024
+##bcftools_viewVersion=1.20+htslib-1.20
+##bcftools_viewCommand=view -Oz -o /home/paumayell/tb-profiler/nuevo-leon/1.23Mtb/c8263c14-df86-4402-af4c-a406a4e031c5.short_variants.targets.vcf.gz; Date=Tue May 28 19:00:03 2024
+##fileDate=20240528
+##ALT=<ID=DEL,Description="Deletion">
+##ALT=<ID=DUP,Description="Duplication">
+##ALT=<ID=INV,Description="Inversion">
+##ALT=<ID=BND,Description="Translocation">
+##ALT=<ID=INS,Description="Insertion">
+##FILTER=<ID=LowQual,Description="Poor quality and insufficient number of PEs and SRs.">
+##INFO=<ID=CIEND,Number=2,Type=Integer,Description="PE confidence interval around END">
+##INFO=<ID=CIPOS,Number=2,Type=Integer,Description="PE confidence interval around POS">
+##INFO=<ID=CHR2,Number=1,Type=String,Description="Chromosome for POS2 coordinate in case of an inter-chromosomal translocation">
+##INFO=<ID=POS2,Number=1,Type=Integer,Description="Genomic position for CHR2 in case of an inter-chromosomal translocation">
+##INFO=<ID=END,Number=1,Type=Integer,Description="End position of the structural variant">
+##INFO=<ID=PE,Number=1,Type=Integer,Description="Paired-end support of the structural variant">
+##INFO=<ID=MAPQ,Number=1,Type=Integer,Description="Median mapping quality of paired-ends">
+##INFO=<ID=SRMAPQ,Number=1,Type=Integer,Description="Median mapping quality of split-reads">
+##INFO=<ID=SR,Number=1,Type=Integer,Description="Split-read support">
+##INFO=<ID=SRQ,Number=1,Type=Float,Description="Split-read consensus alignment quality">
+##INFO=<ID=CONSENSUS,Number=1,Type=String,Description="Split-read consensus sequence">
+##INFO=<ID=CONSBP,Number=1,Type=Integer,Description="Consensus SV breakpoint position">
+##INFO=<ID=CE,Number=1,Type=Float,Description="Consensus sequence entropy">
+##INFO=<ID=CT,Number=1,Type=String,Description="Paired-end signature induced connection type">
+##INFO=<ID=SVLEN,Number=1,Type=Integer,Description="Insertion length for SVTYPE=INS.">
+##INFO=<ID=IMPRECISE,Number=0,Type=Flag,Description="Imprecise structural variation">
+##INFO=<ID=PRECISE,Number=0,Type=Flag,Description="Precise structural variation">
+##INFO=<ID=SVTYPE,Number=1,Type=String,Description="Type of structural variant">
+##INFO=<ID=SVMETHOD,Number=1,Type=String,Description="Type of approach used to detect SV">
+##INFO=<ID=INSLEN,Number=1,Type=Integer,Description="Predicted length of the insertion">
+##INFO=<ID=HOMLEN,Number=1,Type=Integer,Description="Predicted microhomology length using a max. edit distance of 2">
+##FORMAT=<ID=GL,Number=G,Type=Float,Description="Log10-scaled genotype likelihoods for RR,RA,AA genotypes">
+##FORMAT=<ID=GQ,Number=1,Type=Integer,Description="Genotype Quality">
+##FORMAT=<ID=FT,Number=1,Type=String,Description="Per-sample genotype filter">
+##FORMAT=<ID=RC,Number=1,Type=Integer,Description="Raw high-quality read counts or base counts for the SV">
+##FORMAT=<ID=RCL,Number=1,Type=Integer,Description="Raw high-quality read counts or base counts for the left control region">
+##FORMAT=<ID=RCR,Number=1,Type=Integer,Description="Raw high-quality read counts or base counts for the right control region">
+##FORMAT=<ID=RDCN,Number=1,Type=Integer,Description="Read-depth based copy-number estimate for autosomal sites">
+##FORMAT=<ID=DR,Number=1,Type=Integer,Description="# high-quality reference pairs">
+##FORMAT=<ID=DV,Number=1,Type=Integer,Description="# high-quality variant pairs">
+##FORMAT=<ID=RR,Number=1,Type=Integer,Description="# high-quality reference junction reads">
+##FORMAT=<ID=RV,Number=1,Type=Integer,Description="# high-quality variant junction reads">
+##bcftools_concatCommand=concat /home/paumayell/tb-profiler/nuevo-leon/1.23Mtb/c8263c14-df86-4402-af4c-a406a4e031c5.short_variants.targets.vcf.gz /home/paumayell/tb-profiler/nuevo-leon/1.23Mtb/c8263c14-df86-4402-af4c-a406a4e031c5.delly.targets.vcf.gz; Date=Tue May 28 19:00:41 2024
+##SnpEffVersion="5.2f (build 2025-02-07 08:36), by Pablo Cingolani"
+##SnpEffCmd="SnpEff  Mycobacterium_tuberculosis_H37Rv D:/Documents/ITESM/DCC/9th_Semester/FuNTB/Code/vcf/vcf_chromosomes/fixed_H37RV_S191.targets.vcf "
+##INFO=<ID=ANN,Number=.,Type=String,Description="Functional annotations: 'Allele | Annotation | Annotation_Impact | Gene_Name | Gene_ID | Feature_Type | Feature_ID | Transcript_BioType | Rank | HGVS.c | HGVS.p | cDNA.pos / cDNA.length | CDS.pos / CDS.length | AA.pos / AA.length | Distance | ERRORS / WARNINGS / INFO' ">
+##INFO=<ID=LOF,Number=.,Type=String,Description="Predicted loss of function effects for this variant. Format: 'Gene_Name | Gene_ID | Number_of_transcripts_in_gene | Percent_of_transcripts_affected'">
+##INFO=<ID=NMD,Number=.,Type=String,Description="Predicted nonsense mediated decay effects for this variant. Format: 'Gene_Name | Gene_ID | Number_of_transcripts_in_gene | Percent_of_transcripts_affected'">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	H37RV_S191
+NC_000962.3	576113	.	C	T	8.18205	.	DP=9;SGB=-0.379885;RPBZ=-0.297044;MQBZ=0;MQSBZ=0;BQBZ=1;SCBZ=0;MQ0F=0;AC=1;AN=2;DP4=4,1,0,1;MQ=60;ANN=T|missense_variant|MODERATE|mshA|Rv0486|transcript|Rv0486|protein_coding|1/1|c.766C>T|p.Arg256Trp|766/1443|766/1443|256/480||,T|upstream_gene_variant|MODIFIER|Rv0484c|Rv0484c|transcript|Rv0484c|protein_coding||c.-2312G>A|||||2312|,T|upstream_gene_variant|MODIFIER|Rv0487|Rv0487|transcript|Rv0487|protein_coding||c.-674C>T|||||674|WARNING_TRANSCRIPT_NO_START_CODON,T|upstream_gene_variant|MODIFIER|Rv0488|Rv0488|transcript|Rv0488|protein_coding||c.-1551C>T|||||1551|,T|upstream_gene_variant|MODIFIER|gpm1|Rv0489|transcript|Rv0489|protein_coding||c.-2313C>T|||||2313|,T|upstream_gene_variant|MODIFIER|senX3|Rv0490|transcript|Rv0490|protein_coding||c.-3236C>T|||||3236|WARNING_TRANSCRIPT_NO_START_CODON,T|upstream_gene_variant|MODIFIER|regX3|Rv0491|transcript|Rv0491|protein_coding||c.-4696C>T|||||4696|,T|downstream_gene_variant|MODIFIER|murB|Rv0482|transcript|Rv0482|protein_coding||c.*4465C>T|||||4465|,T|downstream_gene_variant|MODIFIER|lprQ|Rv0483|transcript|Rv0483|protein_coding||c.*3048C>T|||||3048|WARNING_TRANSCRIPT_NO_START_CODON,T|downstream_gene_variant|MODIFIER|Rv0485|Rv0485|transcript|Rv0485|protein_coding||c.*813C>T|||||813|WARNING_TRANSCRIPT_NO_START_CODON	GT:PL:DP:ADF:ADR:AD	0/1:42,0,185:6:4,0:1,1:5,1
+NC_000962.3	1471659	.	C	T	225.417	.	DP=83;VDB=0.0161763;SGB=-0.693147;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,26,36;MQ=60;ANN=T|upstream_gene_variant|MODIFIER|Rv1313c|Rv1313c|transcript|Rv1313c|protein_coding||c.-2154G>A|||||2154|WARNING_TRANSCRIPT_NO_START_CODON,T|upstream_gene_variant|MODIFIER|Rv1314c|Rv1314c|transcript|Rv1314c|protein_coding||c.-1407G>A|||||1407|,T|downstream_gene_variant|MODIFIER|atpD|Rv1310|transcript|Rv1310|protein_coding||c.*4358C>T|||||4358|,T|downstream_gene_variant|MODIFIER|atpC|Rv1311|transcript|Rv1311|protein_coding||c.*3979C>T|||||3979|,T|downstream_gene_variant|MODIFIER|Rv1312|Rv1312|transcript|Rv1312|protein_coding||c.*3528C>T|||||3528|,T|downstream_gene_variant|MODIFIER|murA|Rv1315|transcript|Rv1315|protein_coding||c.*82C>T|||||82|WARNING_TRANSCRIPT_NO_START_CODON,T|intragenic_variant|MODIFIER|mcr3|RVnc0021|gene_variant|RVnc0021|||n.1471659C>T||||||	GT:PL:DP:ADF:ADR:AD	1/1:255,187,0:62:0,26:0,36:0,62
