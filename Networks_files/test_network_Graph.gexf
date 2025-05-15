@@ -1,0 +1,2858 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-14">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="size" type="double" />
+      <attribute id="1" title="color" type="string" />
+    </attributes>
+    <nodes>
+      <node id="test_positive_Samples" label="test_positive_Samples">
+        <attvalues>
+          <attvalue for="0" value="10000.0" />
+          <attvalue for="1" value="#39eefa" />
+        </attvalues>
+      </node>
+      <node id="test_negative_Samples" label="test_negative_Samples">
+        <attvalues>
+          <attvalue for="0" value="10000.0" />
+          <attvalue for="1" value="#d9eb24" />
+        </attvalues>
+      </node>
+      <node id="mazF5" label="mazF5">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="zwf1" label="zwf1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="iniC" label="iniC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="127.2" />
+        </attvalues>
+      </node>
+      <node id="garA" label="garA">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="esxF" label="esxF">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="mutA" label="mutA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="533.6" />
+        </attvalues>
+      </node>
+      <node id="devB" label="devB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="148.0" />
+        </attvalues>
+      </node>
+      <node id="pks8" label="pks8">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="208.8" />
+        </attvalues>
+      </node>
+      <node id="glpX" label="glpX">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="plsB1" label="plsB1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="777.6" />
+        </attvalues>
+      </node>
+      <node id="pssA" label="pssA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="2222.4" />
+        </attvalues>
+      </node>
+      <node id="lpqL" label="lpqL">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="ctpC" label="ctpC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="111.2" />
+        </attvalues>
+      </node>
+      <node id="mez" label="mez">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="533.6" />
+        </attvalues>
+      </node>
+      <node id="accD1" label="accD1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="2370.4" />
+        </attvalues>
+      </node>
+      <node id="glpK" label="glpK">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="mihF" label="mihF">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="3555.2" />
+        </attvalues>
+      </node>
+      <node id="rplI" label="rplI">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="lprK" label="lprK">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="gyrB" label="gyrB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="388.8" />
+        </attvalues>
+      </node>
+      <node id="lipU" label="lipU">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="mmpL12" label="mmpL12">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="111.2" />
+        </attvalues>
+      </node>
+      <node id="carA" label="carA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="740.8" />
+        </attvalues>
+      </node>
+      <node id="argH" label="argH">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1184.8" />
+        </attvalues>
+      </node>
+      <node id="nrp" label="nrp">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="646.4" />
+        </attvalues>
+      </node>
+      <node id="cobM" label="cobM">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="177.6" />
+        </attvalues>
+      </node>
+      <node id="mmpS2" label="mmpS2">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1777.6" />
+        </attvalues>
+      </node>
+      <node id="eccC4" label="eccC4">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="355.2" />
+        </attvalues>
+      </node>
+      <node id="plsC" label="plsC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="266.4" />
+        </attvalues>
+      </node>
+      <node id="nth" label="nth">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="148.0" />
+        </attvalues>
+      </node>
+      <node id="fadD9" label="fadD9">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="63.2" />
+        </attvalues>
+      </node>
+      <node id="xerC" label="xerC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="fadD31" label="fadD31">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="197.6" />
+        </attvalues>
+      </node>
+      <node id="pfkB" label="pfkB">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="fadD22" label="fadD22">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="gid" label="gid">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="fadE10" label="fadE10">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="323.2" />
+        </attvalues>
+      </node>
+      <node id="rpsA" label="rpsA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="355.2" />
+        </attvalues>
+      </node>
+      <node id="fdxD" label="fdxD">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="sdhD" label="sdhD">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1777.6" />
+        </attvalues>
+      </node>
+      <node id="mbtE" label="mbtE">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="533.6" />
+        </attvalues>
+      </node>
+      <node id="ask" label="ask">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1333.6" />
+        </attvalues>
+      </node>
+      <node id="rpsP" label="rpsP">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="4444.8" />
+        </attvalues>
+      </node>
+      <node id="rne" label="rne">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="fadE4" label="fadE4">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="111.2" />
+        </attvalues>
+      </node>
+      <node id="desA3" label="desA3">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="mmpL9" label="mmpL9">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="266.4" />
+        </attvalues>
+      </node>
+      <node id="rpoC" label="rpoC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="38.4" />
+        </attvalues>
+      </node>
+      <node id="argS" label="argS">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="533.6" />
+        </attvalues>
+      </node>
+      <node id="fbpB" label="fbpB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1184.8" />
+        </attvalues>
+      </node>
+      <node id="fadA6" label="fadA6">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="222.4" />
+        </attvalues>
+      </node>
+      <node id="cyp142" label="cyp142">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="88.8" />
+        </attvalues>
+      </node>
+      <node id="adhD" label="adhD">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1333.6" />
+        </attvalues>
+      </node>
+      <node id="pgi" label="pgi">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1111.2" />
+        </attvalues>
+      </node>
+      <node id="murF" label="murF">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="pepD" label="pepD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="222.4" />
+        </attvalues>
+      </node>
+      <node id="fadD30" label="fadD30">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1184.8" />
+        </attvalues>
+      </node>
+      <node id="mshB" label="mshB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="533.6" />
+        </attvalues>
+      </node>
+      <node id="espI" label="espI">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="dnaJ1" label="dnaJ1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="592.8" />
+        </attvalues>
+      </node>
+      <node id="lipW" label="lipW">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="kdpD" label="kdpD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="418.4" />
+        </attvalues>
+      </node>
+      <node id="glgC" label="glgC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1066.4" />
+        </attvalues>
+      </node>
+      <node id="gltB" label="gltB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="74.4" />
+        </attvalues>
+      </node>
+      <node id="lppR" label="lppR">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="ino1" label="ino1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="hemC" label="hemC">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="mmsA" label="mmsA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="mmpL10" label="mmpL10">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="395.2" />
+        </attvalues>
+      </node>
+      <node id="nrdE" label="nrdE">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1111.2" />
+        </attvalues>
+      </node>
+      <node id="rpoB" label="rpoB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="782.4" />
+        </attvalues>
+      </node>
+      <node id="vapB38" label="vapB38">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1777.6" />
+        </attvalues>
+      </node>
+      <node id="aldA" label="aldA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="narK1" label="narK1">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="htpG" label="htpG">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="80.8" />
+        </attvalues>
+      </node>
+      <node id="mbtB" label="mbtB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="purH" label="purH">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1600.0" />
+        </attvalues>
+      </node>
+      <node id="mce2D" label="mce2D">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="555.2" />
+        </attvalues>
+      </node>
+      <node id="sigM" label="sigM">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="tesA" label="tesA">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1333.6" />
+        </attvalues>
+      </node>
+      <node id="otsB1" label="otsB1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="627.2" />
+        </attvalues>
+      </node>
+      <node id="rip" label="rip">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1333.6" />
+        </attvalues>
+      </node>
+      <node id="gabD1" label="gabD1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="fadD29" label="fadD29">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="rmlC" label="rmlC">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="accD4" label="accD4">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1777.6" />
+        </attvalues>
+      </node>
+      <node id="cyp135B1" label="cyp135B1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="aroB" label="aroB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1184.8" />
+        </attvalues>
+      </node>
+      <node id="fabG4" label="fabG4">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="161.6" />
+        </attvalues>
+      </node>
+      <node id="folK" label="folK">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="177.6" />
+        </attvalues>
+      </node>
+      <node id="mbtJ" label="mbtJ">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1555.2" />
+        </attvalues>
+      </node>
+      <node id="hycE" label="hycE">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="127.2" />
+        </attvalues>
+      </node>
+      <node id="rocA" label="rocA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="98.4" />
+        </attvalues>
+      </node>
+      <node id="nadB" label="nadB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="ppsC" label="ppsC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="212.0" />
+        </attvalues>
+      </node>
+      <node id="fmu" label="fmu">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="pepE" label="pepE">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1244.8" />
+        </attvalues>
+      </node>
+      <node id="pstB" label="pstB">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="2666.4" />
+        </attvalues>
+      </node>
+      <node id="echA10" label="echA10">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1244.8" />
+        </attvalues>
+      </node>
+      <node id="glyA2" label="glyA2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="761.6" />
+        </attvalues>
+      </node>
+      <node id="tesB1" label="tesB1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="253.6" />
+        </attvalues>
+      </node>
+      <node id="trmU" label="trmU">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="2000.0" />
+        </attvalues>
+      </node>
+      <node id="lprD" label="lprD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1481.6" />
+        </attvalues>
+      </node>
+      <node id="arsB1" label="arsB1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="98.4" />
+        </attvalues>
+      </node>
+      <node id="metH" label="metH">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="833.6" />
+        </attvalues>
+      </node>
+      <node id="mce1D" label="mce1D">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="547.2" />
+        </attvalues>
+      </node>
+      <node id="fabG3" label="fabG3">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="222.4" />
+        </attvalues>
+      </node>
+      <node id="ugpE" label="ugpE">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="380.8" />
+        </attvalues>
+      </node>
+      <node id="gltS" label="gltS">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="177.6" />
+        </attvalues>
+      </node>
+      <node id="mbtD" label="mbtD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="ctpB" label="ctpB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="273.6" />
+        </attvalues>
+      </node>
+      <node id="grcC2" label="grcC2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1016.0" />
+        </attvalues>
+      </node>
+      <node id="echA9" label="echA9">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="253.6" />
+        </attvalues>
+      </node>
+      <node id="fadD25" label="fadD25">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="266.4" />
+        </attvalues>
+      </node>
+      <node id="fadE2" label="fadE2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1111.2" />
+        </attvalues>
+      </node>
+      <node id="rplL" label="rplL">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="2666.4" />
+        </attvalues>
+      </node>
+      <node id="dapC" label="dapC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="666.4" />
+        </attvalues>
+      </node>
+      <node id="relA" label="relA">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="592.8" />
+        </attvalues>
+      </node>
+      <node id="pknD" label="pknD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="518.4" />
+        </attvalues>
+      </node>
+      <node id="ctpI" label="ctpI">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="74.4" />
+        </attvalues>
+      </node>
+      <node id="ileS" label="ileS">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="74.4" />
+        </attvalues>
+      </node>
+      <node id="aftA" label="aftA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="666.4" />
+        </attvalues>
+      </node>
+      <node id="cut2" label="cut2">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="2666.4" />
+        </attvalues>
+      </node>
+      <node id="espK" label="espK">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="156.8" />
+        </attvalues>
+      </node>
+      <node id="mrsA" label="mrsA">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1481.6" />
+        </attvalues>
+      </node>
+      <node id="celA1" label="celA1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="2074.4" />
+        </attvalues>
+      </node>
+      <node id="cyp139" label="cyp139">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="222.4" />
+        </attvalues>
+      </node>
+      <node id="tkt" label="tkt">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="88.8" />
+        </attvalues>
+      </node>
+      <node id="echA20" label="echA20">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="2074.4" />
+        </attvalues>
+      </node>
+      <node id="helZ" label="helZ">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="140.0" />
+        </attvalues>
+      </node>
+      <node id="atsA" label="atsA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="333.6" />
+        </attvalues>
+      </node>
+      <node id="PE3" label="PE3">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="smc" label="smc">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="410.4" />
+        </attvalues>
+      </node>
+      <node id="espE" label="espE">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="615.2" />
+        </attvalues>
+      </node>
+      <node id="ilvG" label="ilvG">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="666.4" />
+        </attvalues>
+      </node>
+      <node id="lprQ" label="lprQ">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="moaE1" label="moaE1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1066.4" />
+        </attvalues>
+      </node>
+      <node id="nuoM" label="nuoM">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="148.0" />
+        </attvalues>
+      </node>
+      <node id="lppZ" label="lppZ">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="253.6" />
+        </attvalues>
+      </node>
+      <node id="gabD2" label="gabD2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="800.0" />
+        </attvalues>
+      </node>
+      <node id="acs" label="acs">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="666.4" />
+        </attvalues>
+      </node>
+      <node id="gmhA" label="gmhA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="katG" label="katG">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="49.6" />
+        </attvalues>
+      </node>
+      <node id="adh" label="adh">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="333.6" />
+        </attvalues>
+      </node>
+      <node id="narG" label="narG">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="127.2" />
+        </attvalues>
+      </node>
+      <node id="mce4D" label="mce4D">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="atpB" label="atpB">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1333.6" />
+        </attvalues>
+      </node>
+      <node id="moaR1" label="moaR1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="333.6" />
+        </attvalues>
+      </node>
+      <node id="bioF2" label="bioF2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="pgmA" label="pgmA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="cyp138" label="cyp138">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="518.4" />
+        </attvalues>
+      </node>
+      <node id="mprB" label="mprB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="98.4" />
+        </attvalues>
+      </node>
+      <node id="mscL" label="mscL">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1777.6" />
+        </attvalues>
+      </node>
+      <node id="nirB" label="nirB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="500.0" />
+        </attvalues>
+      </node>
+      <node id="fadH" label="fadH">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="646.4" />
+        </attvalues>
+      </node>
+      <node id="cyp128" label="cyp128">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="533.6" />
+        </attvalues>
+      </node>
+      <node id="lhr" label="lhr">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="59.2" />
+        </attvalues>
+      </node>
+      <node id="aofH" label="aofH">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="493.6" />
+        </attvalues>
+      </node>
+      <node id="purU" label="purU">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="177.6" />
+        </attvalues>
+      </node>
+      <node id="fprA" label="fprA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="711.2" />
+        </attvalues>
+      </node>
+      <node id="fadE24" label="fadE24">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1111.2" />
+        </attvalues>
+      </node>
+      <node id="mmpL2" label="mmpL2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="727.2" />
+        </attvalues>
+      </node>
+      <node id="pknK" label="pknK">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="355.2" />
+        </attvalues>
+      </node>
+      <node id="echA14" label="echA14">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="666.4" />
+        </attvalues>
+      </node>
+      <node id="frdD" label="frdD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="2222.4" />
+        </attvalues>
+      </node>
+      <node id="ilvA" label="ilvA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="666.4" />
+        </attvalues>
+      </node>
+      <node id="hycQ" label="hycQ">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1143.2" />
+        </attvalues>
+      </node>
+      <node id="ppsD" label="ppsD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="recC" label="recC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="333.6" />
+        </attvalues>
+      </node>
+      <node id="dnaB" label="dnaB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="691.2" />
+        </attvalues>
+      </node>
+      <node id="uvrD1" label="uvrD1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="phoH1" label="phoH1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="691.2" />
+        </attvalues>
+      </node>
+      <node id="ligD" label="ligD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="197.6" />
+        </attvalues>
+      </node>
+      <node id="fusA2" label="fusA2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="phoR" label="phoR">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="161.6" />
+        </attvalues>
+      </node>
+      <node id="aftD" label="aftD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="glgP" label="glgP">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="80.8" />
+        </attvalues>
+      </node>
+      <node id="fadE34" label="fadE34">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="127.2" />
+        </attvalues>
+      </node>
+      <node id="carB" label="carB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="priA" label="priA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="635.2" />
+        </attvalues>
+      </node>
+      <node id="ctpA" label="ctpA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="333.6" />
+        </attvalues>
+      </node>
+      <node id="gmhB" label="gmhB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1422.4" />
+        </attvalues>
+      </node>
+      <node id="dinF" label="dinF">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="88.8" />
+        </attvalues>
+      </node>
+      <node id="PE4" label="PE4">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="nanT" label="nanT">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="404.0" />
+        </attvalues>
+      </node>
+      <node id="mmpL5" label="mmpL5">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="pks5" label="pks5">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="457.6" />
+        </attvalues>
+      </node>
+      <node id="irtA" label="irtA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="cysE" label="cysE">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1396.8" />
+        </attvalues>
+      </node>
+      <node id="murB" label="murB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="508.0" />
+        </attvalues>
+      </node>
+      <node id="ethA" label="ethA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="177.6" />
+        </attvalues>
+      </node>
+      <node id="mtr" label="mtr">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1481.6" />
+        </attvalues>
+      </node>
+      <node id="speE" label="speE">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="stp" label="stp">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="moeY" label="moeY">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="ctpF" label="ctpF">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="156.8" />
+        </attvalues>
+      </node>
+      <node id="clpC2" label="clpC2">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="177.6" />
+        </attvalues>
+      </node>
+      <node id="lprE" label="lprE">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="7111.2" />
+        </attvalues>
+      </node>
+      <node id="fadA3" label="fadA3">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1184.8" />
+        </attvalues>
+      </node>
+      <node id="mmpL1" label="mmpL1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="thiS" label="thiS">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="3555.2" />
+        </attvalues>
+      </node>
+      <node id="pheT" label="pheT">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="80.8" />
+        </attvalues>
+      </node>
+      <node id="leuS" label="leuS">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1184.8" />
+        </attvalues>
+      </node>
+      <node id="pks1" label="pks1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="190.4" />
+        </attvalues>
+      </node>
+      <node id="eccE1" label="eccE1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="59.2" />
+        </attvalues>
+      </node>
+      <node id="pknB" label="pknB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="ltp4" label="ltp4">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="treX" label="treX">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="484.8" />
+        </attvalues>
+      </node>
+      <node id="pks15" label="pks15">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="204.8" />
+        </attvalues>
+      </node>
+      <node id="lipD" label="lipD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="508.0" />
+        </attvalues>
+      </node>
+      <node id="pncB2" label="pncB2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="592.8" />
+        </attvalues>
+      </node>
+      <node id="htdZ" label="htdZ">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="ilvB2" label="ilvB2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="177.6" />
+        </attvalues>
+      </node>
+      <node id="mas" label="mas">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="270.4" />
+        </attvalues>
+      </node>
+      <node id="amiC" label="amiC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="592.8" />
+        </attvalues>
+      </node>
+      <node id="pimE" label="pimE">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="mazE4" label="mazE4">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="6222.4" />
+        </attvalues>
+      </node>
+      <node id="pks6" label="pks6">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="426.4" />
+        </attvalues>
+      </node>
+      <node id="eccCb1" label="eccCb1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="mce1C" label="mce1C">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="atsD" label="atsD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="68.0" />
+        </attvalues>
+      </node>
+      <node id="gyrA" label="gyrA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="iniB" label="iniB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="395.2" />
+        </attvalues>
+      </node>
+      <node id="gltD" label="gltD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1555.2" />
+        </attvalues>
+      </node>
+      <node id="mqo" label="mqo">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="380.8" />
+        </attvalues>
+      </node>
+      <node id="mesJ" label="mesJ">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="592.8" />
+        </attvalues>
+      </node>
+      <node id="dinX" label="dinX">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="555.2" />
+        </attvalues>
+      </node>
+      <node id="fadD4" label="fadD4">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="eccA3" label="eccA3">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="711.2" />
+        </attvalues>
+      </node>
+      <node id="gdh" label="gdh">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="proA" label="proA">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="355.2" />
+        </attvalues>
+      </node>
+      <node id="rbsK" label="rbsK">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1036.8" />
+        </attvalues>
+      </node>
+      <node id="fadD34" label="fadD34">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="820.8" />
+        </attvalues>
+      </node>
+      <node id="cysD" label="cysD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="197.6" />
+        </attvalues>
+      </node>
+      <node id="treZ" label="treZ">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="323.2" />
+        </attvalues>
+      </node>
+      <node id="oplA" label="oplA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="140.0" />
+        </attvalues>
+      </node>
+      <node id="ppgK" label="ppgK">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="761.6" />
+        </attvalues>
+      </node>
+      <node id="gpdA1" label="gpdA1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="3111.2" />
+        </attvalues>
+      </node>
+      <node id="alkB" label="alkB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1066.4" />
+        </attvalues>
+      </node>
+      <node id="ppk1" label="ppk1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="592.8" />
+        </attvalues>
+      </node>
+      <node id="fadA2" label="fadA2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1016.0" />
+        </attvalues>
+      </node>
+      <node id="pks13" label="pks13">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="341.6" />
+        </attvalues>
+      </node>
+      <node id="lat" label="lat">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="136.8" />
+        </attvalues>
+      </node>
+      <node id="aspS" label="aspS">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="127.2" />
+        </attvalues>
+      </node>
+      <node id="ctpV" label="ctpV">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="zwf2" label="zwf2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="555.2" />
+        </attvalues>
+      </node>
+      <node id="fadE5" label="fadE5">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="948.0" />
+        </attvalues>
+      </node>
+      <node id="eccD1" label="eccD1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="313.6" />
+        </attvalues>
+      </node>
+      <node id="trpD" label="trpD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1555.2" />
+        </attvalues>
+      </node>
+      <node id="lipI" label="lipI">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="380.8" />
+        </attvalues>
+      </node>
+      <node id="mycP1" label="mycP1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="fbpC" label="fbpC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="2000.0" />
+        </attvalues>
+      </node>
+      <node id="polA" label="polA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="gnd1" label="gnd1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1333.6" />
+        </attvalues>
+      </node>
+      <node id="kstD" label="kstD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1269.6" />
+        </attvalues>
+      </node>
+      <node id="malQ" label="malQ">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="622.4" />
+        </attvalues>
+      </node>
+      <node id="hycP" label="hycP">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1777.6" />
+        </attvalues>
+      </node>
+      <node id="plsB2" label="plsB2">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="761.6" />
+        </attvalues>
+      </node>
+      <node id="egtC" label="egtC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="740.8" />
+        </attvalues>
+      </node>
+      <node id="folC" label="folC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="161.6" />
+        </attvalues>
+      </node>
+      <node id="treY" label="treY">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="380.8" />
+        </attvalues>
+      </node>
+      <node id="fas" label="fas">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="270.4" />
+        </attvalues>
+      </node>
+      <node id="oppD" label="oppD">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1184.8" />
+        </attvalues>
+      </node>
+      <node id="secA2" label="secA2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="635.2" />
+        </attvalues>
+      </node>
+      <node id="pncA" label="pncA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="666.4" />
+        </attvalues>
+      </node>
+      <node id="rpsI" label="rpsI">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="3555.2" />
+        </attvalues>
+      </node>
+      <node id="sseB" label="sseB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1111.2" />
+        </attvalues>
+      </node>
+      <node id="oxyS" label="oxyS">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="592.8" />
+        </attvalues>
+      </node>
+      <node id="nadE" label="nadE">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1777.6" />
+        </attvalues>
+      </node>
+      <node id="aprB" label="aprB">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="2222.4" />
+        </attvalues>
+      </node>
+      <node id="mmpL8" label="mmpL8">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="266.4" />
+        </attvalues>
+      </node>
+      <node id="secD" label="secD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="790.4" />
+        </attvalues>
+      </node>
+      <node id="guaB2" label="guaB2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="711.2" />
+        </attvalues>
+      </node>
+      <node id="nrdZ" label="nrdZ">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="777.6" />
+        </attvalues>
+      </node>
+      <node id="ctpH" label="ctpH">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="236.8" />
+        </attvalues>
+      </node>
+      <node id="pks4" label="pks4">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="111.2" />
+        </attvalues>
+      </node>
+      <node id="cobO" label="cobO">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="222.4" />
+        </attvalues>
+      </node>
+      <node id="cysG" label="cysG">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="355.2" />
+        </attvalues>
+      </node>
+      <node id="cobN" label="cobN">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="404.0" />
+        </attvalues>
+      </node>
+      <node id="fadD24" label="fadD24">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="493.6" />
+        </attvalues>
+      </node>
+      <node id="accA1" label="accA1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="204.8" />
+        </attvalues>
+      </node>
+      <node id="eccB3" label="eccB3">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1481.6" />
+        </attvalues>
+      </node>
+      <node id="pmmA" label="pmmA">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="592.8" />
+        </attvalues>
+      </node>
+      <node id="cobG" label="cobG">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1184.8" />
+        </attvalues>
+      </node>
+      <node id="cyp126" label="cyp126">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="740.8" />
+        </attvalues>
+      </node>
+      <node id="gpdA2" label="gpdA2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="aftB" label="aftB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="ppsE" label="ppsE">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="395.2" />
+        </attvalues>
+      </node>
+      <node id="eccC3" label="eccC3">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="323.2" />
+        </attvalues>
+      </node>
+      <node id="ppsA" label="ppsA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="808.0" />
+        </attvalues>
+      </node>
+      <node id="cobK" label="cobK">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1777.6" />
+        </attvalues>
+      </node>
+      <node id="hisH" label="hisH">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="fadB" label="fadB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="pks2" label="pks2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="508.0" />
+        </attvalues>
+      </node>
+      <node id="eccC2" label="eccC2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="336.8" />
+        </attvalues>
+      </node>
+      <node id="recB" label="recB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="277.6" />
+        </attvalues>
+      </node>
+      <node id="ligB" label="ligB">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1555.2" />
+        </attvalues>
+      </node>
+      <node id="ctpJ" label="ctpJ">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="148.0" />
+        </attvalues>
+      </node>
+      <node id="bglS" label="bglS">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="rpfB" label="rpfB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1955.2" />
+        </attvalues>
+      </node>
+      <node id="pks17" label="pks17">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="493.6" />
+        </attvalues>
+      </node>
+      <node id="gcvH" label="gcvH">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1333.6" />
+        </attvalues>
+      </node>
+      <node id="espG3" label="espG3">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="2074.4" />
+        </attvalues>
+      </node>
+      <node id="pta" label="pta">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="508.0" />
+        </attvalues>
+      </node>
+      <node id="sapM" label="sapM">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="508.0" />
+        </attvalues>
+      </node>
+      <node id="ureC" label="ureC">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="355.2" />
+        </attvalues>
+      </node>
+      <node id="dacB2" label="dacB2">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="3333.6" />
+        </attvalues>
+      </node>
+      <node id="fadB2" label="fadB2">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="2666.4" />
+        </attvalues>
+      </node>
+      <node id="amiD" label="amiD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="222.4" />
+        </attvalues>
+      </node>
+      <node id="eccD4" label="eccD4">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="lppB" label="lppB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="2666.4" />
+        </attvalues>
+      </node>
+      <node id="fadD5" label="fadD5">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="370.4" />
+        </attvalues>
+      </node>
+      <node id="eccB1" label="eccB1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="222.4" />
+        </attvalues>
+      </node>
+      <node id="ftsY" label="ftsY">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="eccA2" label="eccA2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="166.4" />
+        </attvalues>
+      </node>
+      <node id="pks7" label="pks7">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="236.8" />
+        </attvalues>
+      </node>
+      <node id="pknG" label="pknG">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="177.6" />
+        </attvalues>
+      </node>
+      <node id="moaA1" label="moaA1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="635.2" />
+        </attvalues>
+      </node>
+      <node id="pbpB" label="pbpB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="rplE" label="rplE">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="2666.4" />
+        </attvalues>
+      </node>
+      <node id="dipZ" label="dipZ">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="727.2" />
+        </attvalues>
+      </node>
+      <node id="scpA" label="scpA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1777.6" />
+        </attvalues>
+      </node>
+      <node id="rpfA" label="rpfA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="2000.0" />
+        </attvalues>
+      </node>
+      <node id="wbbL2" label="wbbL2">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="ctpD" label="ctpD">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1481.6" />
+        </attvalues>
+      </node>
+      <node id="lipJ" label="lipJ">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="370.4" />
+        </attvalues>
+      </node>
+      <node id="fadE23" label="fadE23">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="622.4" />
+        </attvalues>
+      </node>
+      <node id="fadE18" label="fadE18">
+        <attvalues>
+          <attvalue for="1" value="#39eefa" />
+          <attvalue for="0" value="1111.2" />
+        </attvalues>
+      </node>
+      <node id="eccCa1" label="eccCa1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="333.6" />
+        </attvalues>
+      </node>
+      <node id="ppsB" label="ppsB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="eccD2" label="eccD2">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="127.2" />
+        </attvalues>
+      </node>
+      <node id="mpt64" label="mpt64">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="592.8" />
+        </attvalues>
+      </node>
+      <node id="gca" label="gca">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="echA18" label="echA18">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="1016.0" />
+        </attvalues>
+      </node>
+      <node id="gshA" label="gshA">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="777.6" />
+        </attvalues>
+      </node>
+      <node id="mbtF" label="mbtF">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="370.4" />
+        </attvalues>
+      </node>
+      <node id="pks9" label="pks9">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="atsB" label="atsB">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="pks12" label="pks12">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="653.6" />
+        </attvalues>
+      </node>
+      <node id="acrA1" label="acrA1">
+        <attvalues>
+          <attvalue for="1" value="#716ff6" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="gmdA" label="gmdA">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="cmaA2" label="cmaA2">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="groEL1" label="groEL1">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="purB" label="purB">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="vapC1" label="vapC1">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="argG" label="argG">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="lytB2" label="lytB2">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="recF" label="recF">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="mazF1" label="mazF1">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="ephE" label="ephE">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="vapB43" label="vapB43">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="fadE29" label="fadE29">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="cydB" label="cydB">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="4222.4" />
+        </attvalues>
+      </node>
+      <node id="hemE" label="hemE">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="296.0" />
+        </attvalues>
+      </node>
+      <node id="rpsN2" label="rpsN2">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="vapC37" label="vapC37">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="3555.2" />
+        </attvalues>
+      </node>
+      <node id="lprA" label="lprA">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="444.8" />
+        </attvalues>
+      </node>
+      <node id="aao" label="aao">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="thyA" label="thyA">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="moaC1" label="moaC1">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="esxW" label="esxW">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="6222.4" />
+        </attvalues>
+      </node>
+      <node id="esxK" label="esxK">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="8000.0" />
+        </attvalues>
+      </node>
+      <node id="nat" label="nat">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="888.8" />
+        </attvalues>
+      </node>
+      <node id="orn" label="orn">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="1777.6" />
+        </attvalues>
+      </node>
+      <node id="pdc" label="pdc">
+        <attvalues>
+          <attvalue for="1" value="#d9eb24" />
+          <attvalue for="0" value="1777.6" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="test_positive_Samples" target="mazF5" id="0" />
+      <edge source="test_positive_Samples" target="zwf1" id="1" />
+      <edge source="test_positive_Samples" target="iniC" id="2" />
+      <edge source="test_positive_Samples" target="garA" id="3" />
+      <edge source="test_positive_Samples" target="esxF" id="4" />
+      <edge source="test_positive_Samples" target="mutA" id="5" />
+      <edge source="test_positive_Samples" target="devB" id="6" />
+      <edge source="test_positive_Samples" target="pks8" id="7" />
+      <edge source="test_positive_Samples" target="glpX" id="8" />
+      <edge source="test_positive_Samples" target="plsB1" id="9" />
+      <edge source="test_positive_Samples" target="pssA" id="10" />
+      <edge source="test_positive_Samples" target="lpqL" id="11" />
+      <edge source="test_positive_Samples" target="ctpC" id="12" />
+      <edge source="test_positive_Samples" target="mez" id="13" />
+      <edge source="test_positive_Samples" target="accD1" id="14" />
+      <edge source="test_positive_Samples" target="glpK" id="15" />
+      <edge source="test_positive_Samples" target="mihF" id="16" />
+      <edge source="test_positive_Samples" target="rplI" id="17" />
+      <edge source="test_positive_Samples" target="lprK" id="18" />
+      <edge source="test_positive_Samples" target="gyrB" id="19" />
+      <edge source="test_positive_Samples" target="lipU" id="20" />
+      <edge source="test_positive_Samples" target="mmpL12" id="21" />
+      <edge source="test_positive_Samples" target="carA" id="22" />
+      <edge source="test_positive_Samples" target="argH" id="23" />
+      <edge source="test_positive_Samples" target="nrp" id="24" />
+      <edge source="test_positive_Samples" target="cobM" id="25" />
+      <edge source="test_positive_Samples" target="mmpS2" id="26" />
+      <edge source="test_positive_Samples" target="eccC4" id="27" />
+      <edge source="test_positive_Samples" target="plsC" id="28" />
+      <edge source="test_positive_Samples" target="nth" id="29" />
+      <edge source="test_positive_Samples" target="fadD9" id="30" />
+      <edge source="test_positive_Samples" target="xerC" id="31" />
+      <edge source="test_positive_Samples" target="fadD31" id="32" />
+      <edge source="test_positive_Samples" target="pfkB" id="33" />
+      <edge source="test_positive_Samples" target="fadD22" id="34" />
+      <edge source="test_positive_Samples" target="gid" id="35" />
+      <edge source="test_positive_Samples" target="fadE10" id="36" />
+      <edge source="test_positive_Samples" target="rpsA" id="37" />
+      <edge source="test_positive_Samples" target="fdxD" id="38" />
+      <edge source="test_positive_Samples" target="sdhD" id="39" />
+      <edge source="test_positive_Samples" target="mbtE" id="40" />
+      <edge source="test_positive_Samples" target="ask" id="41" />
+      <edge source="test_positive_Samples" target="rpsP" id="42" />
+      <edge source="test_positive_Samples" target="rne" id="43" />
+      <edge source="test_positive_Samples" target="fadE4" id="44" />
+      <edge source="test_positive_Samples" target="desA3" id="45" />
+      <edge source="test_positive_Samples" target="mmpL9" id="46" />
+      <edge source="test_positive_Samples" target="rpoC" id="47" />
+      <edge source="test_positive_Samples" target="argS" id="48" />
+      <edge source="test_positive_Samples" target="fbpB" id="49" />
+      <edge source="test_positive_Samples" target="fadA6" id="50" />
+      <edge source="test_positive_Samples" target="cyp142" id="51" />
+      <edge source="test_positive_Samples" target="adhD" id="52" />
+      <edge source="test_positive_Samples" target="pgi" id="53" />
+      <edge source="test_positive_Samples" target="murF" id="54" />
+      <edge source="test_positive_Samples" target="pepD" id="55" />
+      <edge source="test_positive_Samples" target="fadD30" id="56" />
+      <edge source="test_positive_Samples" target="mshB" id="57" />
+      <edge source="test_positive_Samples" target="espI" id="58" />
+      <edge source="test_positive_Samples" target="dnaJ1" id="59" />
+      <edge source="test_positive_Samples" target="lipW" id="60" />
+      <edge source="test_positive_Samples" target="kdpD" id="61" />
+      <edge source="test_positive_Samples" target="glgC" id="62" />
+      <edge source="test_positive_Samples" target="gltB" id="63" />
+      <edge source="test_positive_Samples" target="lppR" id="64" />
+      <edge source="test_positive_Samples" target="ino1" id="65" />
+      <edge source="test_positive_Samples" target="hemC" id="66" />
+      <edge source="test_positive_Samples" target="mmsA" id="67" />
+      <edge source="test_positive_Samples" target="mmpL10" id="68" />
+      <edge source="test_positive_Samples" target="nrdE" id="69" />
+      <edge source="test_positive_Samples" target="rpoB" id="70" />
+      <edge source="test_positive_Samples" target="vapB38" id="71" />
+      <edge source="test_positive_Samples" target="aldA" id="72" />
+      <edge source="test_positive_Samples" target="narK1" id="73" />
+      <edge source="test_positive_Samples" target="htpG" id="74" />
+      <edge source="test_positive_Samples" target="mbtB" id="75" />
+      <edge source="test_positive_Samples" target="purH" id="76" />
+      <edge source="test_positive_Samples" target="mce2D" id="77" />
+      <edge source="test_positive_Samples" target="sigM" id="78" />
+      <edge source="test_positive_Samples" target="tesA" id="79" />
+      <edge source="test_positive_Samples" target="otsB1" id="80" />
+      <edge source="test_positive_Samples" target="rip" id="81" />
+      <edge source="test_positive_Samples" target="gabD1" id="82" />
+      <edge source="test_positive_Samples" target="fadD29" id="83" />
+      <edge source="test_positive_Samples" target="rmlC" id="84" />
+      <edge source="test_positive_Samples" target="accD4" id="85" />
+      <edge source="test_positive_Samples" target="cyp135B1" id="86" />
+      <edge source="test_positive_Samples" target="aroB" id="87" />
+      <edge source="test_positive_Samples" target="fabG4" id="88" />
+      <edge source="test_positive_Samples" target="folK" id="89" />
+      <edge source="test_positive_Samples" target="mbtJ" id="90" />
+      <edge source="test_positive_Samples" target="hycE" id="91" />
+      <edge source="test_positive_Samples" target="rocA" id="92" />
+      <edge source="test_positive_Samples" target="nadB" id="93" />
+      <edge source="test_positive_Samples" target="ppsC" id="94" />
+      <edge source="test_positive_Samples" target="fmu" id="95" />
+      <edge source="test_positive_Samples" target="pepE" id="96" />
+      <edge source="test_positive_Samples" target="pstB" id="97" />
+      <edge source="test_positive_Samples" target="echA10" id="98" />
+      <edge source="test_positive_Samples" target="glyA2" id="99" />
+      <edge source="test_positive_Samples" target="tesB1" id="100" />
+      <edge source="test_positive_Samples" target="trmU" id="101" />
+      <edge source="test_positive_Samples" target="lprD" id="102" />
+      <edge source="test_positive_Samples" target="arsB1" id="103" />
+      <edge source="test_positive_Samples" target="metH" id="104" />
+      <edge source="test_positive_Samples" target="mce1D" id="105" />
+      <edge source="test_positive_Samples" target="fabG3" id="106" />
+      <edge source="test_positive_Samples" target="ugpE" id="107" />
+      <edge source="test_positive_Samples" target="gltS" id="108" />
+      <edge source="test_positive_Samples" target="mbtD" id="109" />
+      <edge source="test_positive_Samples" target="ctpB" id="110" />
+      <edge source="test_positive_Samples" target="grcC2" id="111" />
+      <edge source="test_positive_Samples" target="echA9" id="112" />
+      <edge source="test_positive_Samples" target="fadD25" id="113" />
+      <edge source="test_positive_Samples" target="fadE2" id="114" />
+      <edge source="test_positive_Samples" target="rplL" id="115" />
+      <edge source="test_positive_Samples" target="dapC" id="116" />
+      <edge source="test_positive_Samples" target="relA" id="117" />
+      <edge source="test_positive_Samples" target="pknD" id="118" />
+      <edge source="test_positive_Samples" target="ctpI" id="119" />
+      <edge source="test_positive_Samples" target="ileS" id="120" />
+      <edge source="test_positive_Samples" target="aftA" id="121" />
+      <edge source="test_positive_Samples" target="cut2" id="122" />
+      <edge source="test_positive_Samples" target="espK" id="123" />
+      <edge source="test_positive_Samples" target="mrsA" id="124" />
+      <edge source="test_positive_Samples" target="celA1" id="125" />
+      <edge source="test_positive_Samples" target="cyp139" id="126" />
+      <edge source="test_positive_Samples" target="tkt" id="127" />
+      <edge source="test_positive_Samples" target="echA20" id="128" />
+      <edge source="test_positive_Samples" target="helZ" id="129" />
+      <edge source="test_positive_Samples" target="atsA" id="130" />
+      <edge source="test_positive_Samples" target="PE3" id="131" />
+      <edge source="test_positive_Samples" target="smc" id="132" />
+      <edge source="test_positive_Samples" target="espE" id="133" />
+      <edge source="test_positive_Samples" target="ilvG" id="134" />
+      <edge source="test_positive_Samples" target="lprQ" id="135" />
+      <edge source="test_positive_Samples" target="moaE1" id="136" />
+      <edge source="test_positive_Samples" target="nuoM" id="137" />
+      <edge source="test_positive_Samples" target="lppZ" id="138" />
+      <edge source="test_positive_Samples" target="gabD2" id="139" />
+      <edge source="test_positive_Samples" target="acs" id="140" />
+      <edge source="test_positive_Samples" target="gmhA" id="141" />
+      <edge source="test_positive_Samples" target="katG" id="142" />
+      <edge source="test_positive_Samples" target="adh" id="143" />
+      <edge source="test_positive_Samples" target="narG" id="144" />
+      <edge source="test_positive_Samples" target="mce4D" id="145" />
+      <edge source="test_positive_Samples" target="atpB" id="146" />
+      <edge source="test_positive_Samples" target="moaR1" id="147" />
+      <edge source="test_positive_Samples" target="bioF2" id="148" />
+      <edge source="test_positive_Samples" target="pgmA" id="149" />
+      <edge source="test_positive_Samples" target="cyp138" id="150" />
+      <edge source="test_positive_Samples" target="mprB" id="151" />
+      <edge source="test_positive_Samples" target="mscL" id="152" />
+      <edge source="test_positive_Samples" target="nirB" id="153" />
+      <edge source="test_positive_Samples" target="fadH" id="154" />
+      <edge source="test_positive_Samples" target="cyp128" id="155" />
+      <edge source="test_positive_Samples" target="lhr" id="156" />
+      <edge source="test_positive_Samples" target="aofH" id="157" />
+      <edge source="test_positive_Samples" target="purU" id="158" />
+      <edge source="test_positive_Samples" target="fprA" id="159" />
+      <edge source="test_positive_Samples" target="fadE24" id="160" />
+      <edge source="test_positive_Samples" target="mmpL2" id="161" />
+      <edge source="test_positive_Samples" target="pknK" id="162" />
+      <edge source="test_positive_Samples" target="echA14" id="163" />
+      <edge source="test_positive_Samples" target="frdD" id="164" />
+      <edge source="test_positive_Samples" target="ilvA" id="165" />
+      <edge source="test_positive_Samples" target="hycQ" id="166" />
+      <edge source="test_positive_Samples" target="ppsD" id="167" />
+      <edge source="test_positive_Samples" target="recC" id="168" />
+      <edge source="test_positive_Samples" target="dnaB" id="169" />
+      <edge source="test_positive_Samples" target="uvrD1" id="170" />
+      <edge source="test_positive_Samples" target="phoH1" id="171" />
+      <edge source="test_positive_Samples" target="ligD" id="172" />
+      <edge source="test_positive_Samples" target="fusA2" id="173" />
+      <edge source="test_positive_Samples" target="phoR" id="174" />
+      <edge source="test_positive_Samples" target="aftD" id="175" />
+      <edge source="test_positive_Samples" target="glgP" id="176" />
+      <edge source="test_positive_Samples" target="fadE34" id="177" />
+      <edge source="test_positive_Samples" target="carB" id="178" />
+      <edge source="test_positive_Samples" target="priA" id="179" />
+      <edge source="test_positive_Samples" target="ctpA" id="180" />
+      <edge source="test_positive_Samples" target="gmhB" id="181" />
+      <edge source="test_positive_Samples" target="dinF" id="182" />
+      <edge source="test_positive_Samples" target="PE4" id="183" />
+      <edge source="test_positive_Samples" target="nanT" id="184" />
+      <edge source="test_positive_Samples" target="mmpL5" id="185" />
+      <edge source="test_positive_Samples" target="pks5" id="186" />
+      <edge source="test_positive_Samples" target="irtA" id="187" />
+      <edge source="test_positive_Samples" target="cysE" id="188" />
+      <edge source="test_positive_Samples" target="murB" id="189" />
+      <edge source="test_positive_Samples" target="ethA" id="190" />
+      <edge source="test_positive_Samples" target="mtr" id="191" />
+      <edge source="test_positive_Samples" target="speE" id="192" />
+      <edge source="test_positive_Samples" target="stp" id="193" />
+      <edge source="test_positive_Samples" target="moeY" id="194" />
+      <edge source="test_positive_Samples" target="ctpF" id="195" />
+      <edge source="test_positive_Samples" target="clpC2" id="196" />
+      <edge source="test_positive_Samples" target="lprE" id="197" />
+      <edge source="test_positive_Samples" target="fadA3" id="198" />
+      <edge source="test_positive_Samples" target="mmpL1" id="199" />
+      <edge source="test_positive_Samples" target="thiS" id="200" />
+      <edge source="test_positive_Samples" target="pheT" id="201" />
+      <edge source="test_positive_Samples" target="leuS" id="202" />
+      <edge source="test_positive_Samples" target="pks1" id="203" />
+      <edge source="test_positive_Samples" target="eccE1" id="204" />
+      <edge source="test_positive_Samples" target="pknB" id="205" />
+      <edge source="test_positive_Samples" target="ltp4" id="206" />
+      <edge source="test_positive_Samples" target="treX" id="207" />
+      <edge source="test_positive_Samples" target="pks15" id="208" />
+      <edge source="test_positive_Samples" target="lipD" id="209" />
+      <edge source="test_positive_Samples" target="pncB2" id="210" />
+      <edge source="test_positive_Samples" target="htdZ" id="211" />
+      <edge source="test_positive_Samples" target="ilvB2" id="212" />
+      <edge source="test_positive_Samples" target="mas" id="213" />
+      <edge source="test_positive_Samples" target="amiC" id="214" />
+      <edge source="test_positive_Samples" target="pimE" id="215" />
+      <edge source="test_positive_Samples" target="mazE4" id="216" />
+      <edge source="test_positive_Samples" target="pks6" id="217" />
+      <edge source="test_positive_Samples" target="eccCb1" id="218" />
+      <edge source="test_positive_Samples" target="mce1C" id="219" />
+      <edge source="test_positive_Samples" target="atsD" id="220" />
+      <edge source="test_positive_Samples" target="gyrA" id="221" />
+      <edge source="test_positive_Samples" target="iniB" id="222" />
+      <edge source="test_positive_Samples" target="gltD" id="223" />
+      <edge source="test_positive_Samples" target="mqo" id="224" />
+      <edge source="test_positive_Samples" target="mesJ" id="225" />
+      <edge source="test_positive_Samples" target="dinX" id="226" />
+      <edge source="test_positive_Samples" target="fadD4" id="227" />
+      <edge source="test_positive_Samples" target="eccA3" id="228" />
+      <edge source="test_positive_Samples" target="gdh" id="229" />
+      <edge source="test_positive_Samples" target="proA" id="230" />
+      <edge source="test_positive_Samples" target="rbsK" id="231" />
+      <edge source="test_positive_Samples" target="fadD34" id="232" />
+      <edge source="test_positive_Samples" target="cysD" id="233" />
+      <edge source="test_positive_Samples" target="treZ" id="234" />
+      <edge source="test_positive_Samples" target="oplA" id="235" />
+      <edge source="test_positive_Samples" target="ppgK" id="236" />
+      <edge source="test_positive_Samples" target="gpdA1" id="237" />
+      <edge source="test_positive_Samples" target="alkB" id="238" />
+      <edge source="test_positive_Samples" target="ppk1" id="239" />
+      <edge source="test_positive_Samples" target="fadA2" id="240" />
+      <edge source="test_positive_Samples" target="pks13" id="241" />
+      <edge source="test_positive_Samples" target="lat" id="242" />
+      <edge source="test_positive_Samples" target="aspS" id="243" />
+      <edge source="test_positive_Samples" target="ctpV" id="244" />
+      <edge source="test_positive_Samples" target="zwf2" id="245" />
+      <edge source="test_positive_Samples" target="fadE5" id="246" />
+      <edge source="test_positive_Samples" target="eccD1" id="247" />
+      <edge source="test_positive_Samples" target="trpD" id="248" />
+      <edge source="test_positive_Samples" target="lipI" id="249" />
+      <edge source="test_positive_Samples" target="mycP1" id="250" />
+      <edge source="test_positive_Samples" target="fbpC" id="251" />
+      <edge source="test_positive_Samples" target="polA" id="252" />
+      <edge source="test_positive_Samples" target="gnd1" id="253" />
+      <edge source="test_positive_Samples" target="kstD" id="254" />
+      <edge source="test_positive_Samples" target="malQ" id="255" />
+      <edge source="test_positive_Samples" target="hycP" id="256" />
+      <edge source="test_positive_Samples" target="plsB2" id="257" />
+      <edge source="test_positive_Samples" target="egtC" id="258" />
+      <edge source="test_positive_Samples" target="folC" id="259" />
+      <edge source="test_positive_Samples" target="treY" id="260" />
+      <edge source="test_positive_Samples" target="fas" id="261" />
+      <edge source="test_positive_Samples" target="oppD" id="262" />
+      <edge source="test_positive_Samples" target="secA2" id="263" />
+      <edge source="test_positive_Samples" target="pncA" id="264" />
+      <edge source="test_positive_Samples" target="rpsI" id="265" />
+      <edge source="test_positive_Samples" target="sseB" id="266" />
+      <edge source="test_positive_Samples" target="oxyS" id="267" />
+      <edge source="test_positive_Samples" target="nadE" id="268" />
+      <edge source="test_positive_Samples" target="aprB" id="269" />
+      <edge source="test_positive_Samples" target="mmpL8" id="270" />
+      <edge source="test_positive_Samples" target="secD" id="271" />
+      <edge source="test_positive_Samples" target="guaB2" id="272" />
+      <edge source="test_positive_Samples" target="nrdZ" id="273" />
+      <edge source="test_positive_Samples" target="ctpH" id="274" />
+      <edge source="test_positive_Samples" target="pks4" id="275" />
+      <edge source="test_positive_Samples" target="cobO" id="276" />
+      <edge source="test_positive_Samples" target="cysG" id="277" />
+      <edge source="test_positive_Samples" target="cobN" id="278" />
+      <edge source="test_positive_Samples" target="fadD24" id="279" />
+      <edge source="test_positive_Samples" target="accA1" id="280" />
+      <edge source="test_positive_Samples" target="eccB3" id="281" />
+      <edge source="test_positive_Samples" target="pmmA" id="282" />
+      <edge source="test_positive_Samples" target="cobG" id="283" />
+      <edge source="test_positive_Samples" target="cyp126" id="284" />
+      <edge source="test_positive_Samples" target="gpdA2" id="285" />
+      <edge source="test_positive_Samples" target="aftB" id="286" />
+      <edge source="test_positive_Samples" target="ppsE" id="287" />
+      <edge source="test_positive_Samples" target="eccC3" id="288" />
+      <edge source="test_positive_Samples" target="ppsA" id="289" />
+      <edge source="test_positive_Samples" target="cobK" id="290" />
+      <edge source="test_positive_Samples" target="hisH" id="291" />
+      <edge source="test_positive_Samples" target="fadB" id="292" />
+      <edge source="test_positive_Samples" target="pks2" id="293" />
+      <edge source="test_positive_Samples" target="eccC2" id="294" />
+      <edge source="test_positive_Samples" target="recB" id="295" />
+      <edge source="test_positive_Samples" target="ligB" id="296" />
+      <edge source="test_positive_Samples" target="ctpJ" id="297" />
+      <edge source="test_positive_Samples" target="bglS" id="298" />
+      <edge source="test_positive_Samples" target="rpfB" id="299" />
+      <edge source="test_positive_Samples" target="pks17" id="300" />
+      <edge source="test_positive_Samples" target="gcvH" id="301" />
+      <edge source="test_positive_Samples" target="espG3" id="302" />
+      <edge source="test_positive_Samples" target="pta" id="303" />
+      <edge source="test_positive_Samples" target="sapM" id="304" />
+      <edge source="test_positive_Samples" target="ureC" id="305" />
+      <edge source="test_positive_Samples" target="dacB2" id="306" />
+      <edge source="test_positive_Samples" target="fadB2" id="307" />
+      <edge source="test_positive_Samples" target="amiD" id="308" />
+      <edge source="test_positive_Samples" target="eccD4" id="309" />
+      <edge source="test_positive_Samples" target="lppB" id="310" />
+      <edge source="test_positive_Samples" target="fadD5" id="311" />
+      <edge source="test_positive_Samples" target="eccB1" id="312" />
+      <edge source="test_positive_Samples" target="ftsY" id="313" />
+      <edge source="test_positive_Samples" target="eccA2" id="314" />
+      <edge source="test_positive_Samples" target="pks7" id="315" />
+      <edge source="test_positive_Samples" target="pknG" id="316" />
+      <edge source="test_positive_Samples" target="moaA1" id="317" />
+      <edge source="test_positive_Samples" target="pbpB" id="318" />
+      <edge source="test_positive_Samples" target="rplE" id="319" />
+      <edge source="test_positive_Samples" target="dipZ" id="320" />
+      <edge source="test_positive_Samples" target="scpA" id="321" />
+      <edge source="test_positive_Samples" target="rpfA" id="322" />
+      <edge source="test_positive_Samples" target="wbbL2" id="323" />
+      <edge source="test_positive_Samples" target="ctpD" id="324" />
+      <edge source="test_positive_Samples" target="lipJ" id="325" />
+      <edge source="test_positive_Samples" target="fadE23" id="326" />
+      <edge source="test_positive_Samples" target="fadE18" id="327" />
+      <edge source="test_positive_Samples" target="eccCa1" id="328" />
+      <edge source="test_positive_Samples" target="ppsB" id="329" />
+      <edge source="test_positive_Samples" target="eccD2" id="330" />
+      <edge source="test_positive_Samples" target="mpt64" id="331" />
+      <edge source="test_positive_Samples" target="gca" id="332" />
+      <edge source="test_positive_Samples" target="echA18" id="333" />
+      <edge source="test_positive_Samples" target="gshA" id="334" />
+      <edge source="test_positive_Samples" target="mbtF" id="335" />
+      <edge source="test_positive_Samples" target="pks9" id="336" />
+      <edge source="test_positive_Samples" target="atsB" id="337" />
+      <edge source="test_positive_Samples" target="pks12" id="338" />
+      <edge source="test_positive_Samples" target="acrA1" id="339" />
+      <edge source="test_negative_Samples" target="zwf1" id="340" />
+      <edge source="test_negative_Samples" target="iniC" id="341" />
+      <edge source="test_negative_Samples" target="esxF" id="342" />
+      <edge source="test_negative_Samples" target="mutA" id="343" />
+      <edge source="test_negative_Samples" target="devB" id="344" />
+      <edge source="test_negative_Samples" target="pks8" id="345" />
+      <edge source="test_negative_Samples" target="plsB1" id="346" />
+      <edge source="test_negative_Samples" target="pssA" id="347" />
+      <edge source="test_negative_Samples" target="lpqL" id="348" />
+      <edge source="test_negative_Samples" target="gmdA" id="349" />
+      <edge source="test_negative_Samples" target="ctpC" id="350" />
+      <edge source="test_negative_Samples" target="cmaA2" id="351" />
+      <edge source="test_negative_Samples" target="accD1" id="352" />
+      <edge source="test_negative_Samples" target="glpK" id="353" />
+      <edge source="test_negative_Samples" target="lprK" id="354" />
+      <edge source="test_negative_Samples" target="gyrB" id="355" />
+      <edge source="test_negative_Samples" target="lipU" id="356" />
+      <edge source="test_negative_Samples" target="mmpL12" id="357" />
+      <edge source="test_negative_Samples" target="carA" id="358" />
+      <edge source="test_negative_Samples" target="groEL1" id="359" />
+      <edge source="test_negative_Samples" target="purB" id="360" />
+      <edge source="test_negative_Samples" target="nrp" id="361" />
+      <edge source="test_negative_Samples" target="cobM" id="362" />
+      <edge source="test_negative_Samples" target="vapC1" id="363" />
+      <edge source="test_negative_Samples" target="eccC4" id="364" />
+      <edge source="test_negative_Samples" target="plsC" id="365" />
+      <edge source="test_negative_Samples" target="nth" id="366" />
+      <edge source="test_negative_Samples" target="fadD9" id="367" />
+      <edge source="test_negative_Samples" target="xerC" id="368" />
+      <edge source="test_negative_Samples" target="fadD31" id="369" />
+      <edge source="test_negative_Samples" target="fadD22" id="370" />
+      <edge source="test_negative_Samples" target="gid" id="371" />
+      <edge source="test_negative_Samples" target="fadE10" id="372" />
+      <edge source="test_negative_Samples" target="rpsA" id="373" />
+      <edge source="test_negative_Samples" target="mbtE" id="374" />
+      <edge source="test_negative_Samples" target="ask" id="375" />
+      <edge source="test_negative_Samples" target="rne" id="376" />
+      <edge source="test_negative_Samples" target="fadE4" id="377" />
+      <edge source="test_negative_Samples" target="mmpL9" id="378" />
+      <edge source="test_negative_Samples" target="rpoC" id="379" />
+      <edge source="test_negative_Samples" target="argS" id="380" />
+      <edge source="test_negative_Samples" target="fbpB" id="381" />
+      <edge source="test_negative_Samples" target="fadA6" id="382" />
+      <edge source="test_negative_Samples" target="cyp142" id="383" />
+      <edge source="test_negative_Samples" target="pepD" id="384" />
+      <edge source="test_negative_Samples" target="fadD30" id="385" />
+      <edge source="test_negative_Samples" target="mshB" id="386" />
+      <edge source="test_negative_Samples" target="espI" id="387" />
+      <edge source="test_negative_Samples" target="dnaJ1" id="388" />
+      <edge source="test_negative_Samples" target="kdpD" id="389" />
+      <edge source="test_negative_Samples" target="glgC" id="390" />
+      <edge source="test_negative_Samples" target="argG" id="391" />
+      <edge source="test_negative_Samples" target="gltB" id="392" />
+      <edge source="test_negative_Samples" target="lppR" id="393" />
+      <edge source="test_negative_Samples" target="ino1" id="394" />
+      <edge source="test_negative_Samples" target="lytB2" id="395" />
+      <edge source="test_negative_Samples" target="mmsA" id="396" />
+      <edge source="test_negative_Samples" target="mmpL10" id="397" />
+      <edge source="test_negative_Samples" target="nrdE" id="398" />
+      <edge source="test_negative_Samples" target="rpoB" id="399" />
+      <edge source="test_negative_Samples" target="recF" id="400" />
+      <edge source="test_negative_Samples" target="mazF1" id="401" />
+      <edge source="test_negative_Samples" target="aldA" id="402" />
+      <edge source="test_negative_Samples" target="ephE" id="403" />
+      <edge source="test_negative_Samples" target="htpG" id="404" />
+      <edge source="test_negative_Samples" target="mbtB" id="405" />
+      <edge source="test_negative_Samples" target="purH" id="406" />
+      <edge source="test_negative_Samples" target="mce2D" id="407" />
+      <edge source="test_negative_Samples" target="sigM" id="408" />
+      <edge source="test_negative_Samples" target="otsB1" id="409" />
+      <edge source="test_negative_Samples" target="rip" id="410" />
+      <edge source="test_negative_Samples" target="gabD1" id="411" />
+      <edge source="test_negative_Samples" target="vapB43" id="412" />
+      <edge source="test_negative_Samples" target="fadD29" id="413" />
+      <edge source="test_negative_Samples" target="cyp135B1" id="414" />
+      <edge source="test_negative_Samples" target="aroB" id="415" />
+      <edge source="test_negative_Samples" target="fadE29" id="416" />
+      <edge source="test_negative_Samples" target="fabG4" id="417" />
+      <edge source="test_negative_Samples" target="mbtJ" id="418" />
+      <edge source="test_negative_Samples" target="hycE" id="419" />
+      <edge source="test_negative_Samples" target="rocA" id="420" />
+      <edge source="test_negative_Samples" target="nadB" id="421" />
+      <edge source="test_negative_Samples" target="ppsC" id="422" />
+      <edge source="test_negative_Samples" target="echA10" id="423" />
+      <edge source="test_negative_Samples" target="glyA2" id="424" />
+      <edge source="test_negative_Samples" target="tesB1" id="425" />
+      <edge source="test_negative_Samples" target="trmU" id="426" />
+      <edge source="test_negative_Samples" target="lprD" id="427" />
+      <edge source="test_negative_Samples" target="arsB1" id="428" />
+      <edge source="test_negative_Samples" target="metH" id="429" />
+      <edge source="test_negative_Samples" target="mce1D" id="430" />
+      <edge source="test_negative_Samples" target="ugpE" id="431" />
+      <edge source="test_negative_Samples" target="gltS" id="432" />
+      <edge source="test_negative_Samples" target="mbtD" id="433" />
+      <edge source="test_negative_Samples" target="ctpB" id="434" />
+      <edge source="test_negative_Samples" target="grcC2" id="435" />
+      <edge source="test_negative_Samples" target="echA9" id="436" />
+      <edge source="test_negative_Samples" target="fadD25" id="437" />
+      <edge source="test_negative_Samples" target="fadE2" id="438" />
+      <edge source="test_negative_Samples" target="cydB" id="439" />
+      <edge source="test_negative_Samples" target="dapC" id="440" />
+      <edge source="test_negative_Samples" target="pknD" id="441" />
+      <edge source="test_negative_Samples" target="ctpI" id="442" />
+      <edge source="test_negative_Samples" target="ileS" id="443" />
+      <edge source="test_negative_Samples" target="aftA" id="444" />
+      <edge source="test_negative_Samples" target="espK" id="445" />
+      <edge source="test_negative_Samples" target="celA1" id="446" />
+      <edge source="test_negative_Samples" target="tkt" id="447" />
+      <edge source="test_negative_Samples" target="atsA" id="448" />
+      <edge source="test_negative_Samples" target="helZ" id="449" />
+      <edge source="test_negative_Samples" target="echA20" id="450" />
+      <edge source="test_negative_Samples" target="PE3" id="451" />
+      <edge source="test_negative_Samples" target="smc" id="452" />
+      <edge source="test_negative_Samples" target="espE" id="453" />
+      <edge source="test_negative_Samples" target="ilvG" id="454" />
+      <edge source="test_negative_Samples" target="moaE1" id="455" />
+      <edge source="test_negative_Samples" target="lppZ" id="456" />
+      <edge source="test_negative_Samples" target="gabD2" id="457" />
+      <edge source="test_negative_Samples" target="acs" id="458" />
+      <edge source="test_negative_Samples" target="gmhA" id="459" />
+      <edge source="test_negative_Samples" target="katG" id="460" />
+      <edge source="test_negative_Samples" target="adh" id="461" />
+      <edge source="test_negative_Samples" target="narG" id="462" />
+      <edge source="test_negative_Samples" target="mce4D" id="463" />
+      <edge source="test_negative_Samples" target="moaR1" id="464" />
+      <edge source="test_negative_Samples" target="bioF2" id="465" />
+      <edge source="test_negative_Samples" target="pgmA" id="466" />
+      <edge source="test_negative_Samples" target="cyp138" id="467" />
+      <edge source="test_negative_Samples" target="mprB" id="468" />
+      <edge source="test_negative_Samples" target="mscL" id="469" />
+      <edge source="test_negative_Samples" target="nirB" id="470" />
+      <edge source="test_negative_Samples" target="fadH" id="471" />
+      <edge source="test_negative_Samples" target="cyp128" id="472" />
+      <edge source="test_negative_Samples" target="lhr" id="473" />
+      <edge source="test_negative_Samples" target="aofH" id="474" />
+      <edge source="test_negative_Samples" target="fprA" id="475" />
+      <edge source="test_negative_Samples" target="fadE24" id="476" />
+      <edge source="test_negative_Samples" target="mmpL2" id="477" />
+      <edge source="test_negative_Samples" target="pknK" id="478" />
+      <edge source="test_negative_Samples" target="echA14" id="479" />
+      <edge source="test_negative_Samples" target="frdD" id="480" />
+      <edge source="test_negative_Samples" target="ilvA" id="481" />
+      <edge source="test_negative_Samples" target="hycQ" id="482" />
+      <edge source="test_negative_Samples" target="ppsD" id="483" />
+      <edge source="test_negative_Samples" target="recC" id="484" />
+      <edge source="test_negative_Samples" target="dnaB" id="485" />
+      <edge source="test_negative_Samples" target="uvrD1" id="486" />
+      <edge source="test_negative_Samples" target="phoH1" id="487" />
+      <edge source="test_negative_Samples" target="ligD" id="488" />
+      <edge source="test_negative_Samples" target="fusA2" id="489" />
+      <edge source="test_negative_Samples" target="phoR" id="490" />
+      <edge source="test_negative_Samples" target="aftD" id="491" />
+      <edge source="test_negative_Samples" target="glgP" id="492" />
+      <edge source="test_negative_Samples" target="fadE34" id="493" />
+      <edge source="test_negative_Samples" target="carB" id="494" />
+      <edge source="test_negative_Samples" target="priA" id="495" />
+      <edge source="test_negative_Samples" target="ctpA" id="496" />
+      <edge source="test_negative_Samples" target="gmhB" id="497" />
+      <edge source="test_negative_Samples" target="dinF" id="498" />
+      <edge source="test_negative_Samples" target="hemE" id="499" />
+      <edge source="test_negative_Samples" target="PE4" id="500" />
+      <edge source="test_negative_Samples" target="rpsN2" id="501" />
+      <edge source="test_negative_Samples" target="nanT" id="502" />
+      <edge source="test_negative_Samples" target="mmpL5" id="503" />
+      <edge source="test_negative_Samples" target="pks5" id="504" />
+      <edge source="test_negative_Samples" target="irtA" id="505" />
+      <edge source="test_negative_Samples" target="cysE" id="506" />
+      <edge source="test_negative_Samples" target="murB" id="507" />
+      <edge source="test_negative_Samples" target="ethA" id="508" />
+      <edge source="test_negative_Samples" target="vapC37" id="509" />
+      <edge source="test_negative_Samples" target="speE" id="510" />
+      <edge source="test_negative_Samples" target="stp" id="511" />
+      <edge source="test_negative_Samples" target="moeY" id="512" />
+      <edge source="test_negative_Samples" target="ctpF" id="513" />
+      <edge source="test_negative_Samples" target="fadA3" id="514" />
+      <edge source="test_negative_Samples" target="lprA" id="515" />
+      <edge source="test_negative_Samples" target="mmpL1" id="516" />
+      <edge source="test_negative_Samples" target="pheT" id="517" />
+      <edge source="test_negative_Samples" target="leuS" id="518" />
+      <edge source="test_negative_Samples" target="pks1" id="519" />
+      <edge source="test_negative_Samples" target="eccE1" id="520" />
+      <edge source="test_negative_Samples" target="pknB" id="521" />
+      <edge source="test_negative_Samples" target="ltp4" id="522" />
+      <edge source="test_negative_Samples" target="treX" id="523" />
+      <edge source="test_negative_Samples" target="aao" id="524" />
+      <edge source="test_negative_Samples" target="pks15" id="525" />
+      <edge source="test_negative_Samples" target="lipD" id="526" />
+      <edge source="test_negative_Samples" target="pncB2" id="527" />
+      <edge source="test_negative_Samples" target="ilvB2" id="528" />
+      <edge source="test_negative_Samples" target="mas" id="529" />
+      <edge source="test_negative_Samples" target="amiC" id="530" />
+      <edge source="test_negative_Samples" target="pimE" id="531" />
+      <edge source="test_negative_Samples" target="pks6" id="532" />
+      <edge source="test_negative_Samples" target="eccCb1" id="533" />
+      <edge source="test_negative_Samples" target="mce1C" id="534" />
+      <edge source="test_negative_Samples" target="atsD" id="535" />
+      <edge source="test_negative_Samples" target="gyrA" id="536" />
+      <edge source="test_negative_Samples" target="iniB" id="537" />
+      <edge source="test_negative_Samples" target="gltD" id="538" />
+      <edge source="test_negative_Samples" target="mqo" id="539" />
+      <edge source="test_negative_Samples" target="dinX" id="540" />
+      <edge source="test_negative_Samples" target="fadD4" id="541" />
+      <edge source="test_negative_Samples" target="gdh" id="542" />
+      <edge source="test_negative_Samples" target="rbsK" id="543" />
+      <edge source="test_negative_Samples" target="thyA" id="544" />
+      <edge source="test_negative_Samples" target="fadD34" id="545" />
+      <edge source="test_negative_Samples" target="cysD" id="546" />
+      <edge source="test_negative_Samples" target="treZ" id="547" />
+      <edge source="test_negative_Samples" target="oplA" id="548" />
+      <edge source="test_negative_Samples" target="ppgK" id="549" />
+      <edge source="test_negative_Samples" target="gpdA1" id="550" />
+      <edge source="test_negative_Samples" target="alkB" id="551" />
+      <edge source="test_negative_Samples" target="ppk1" id="552" />
+      <edge source="test_negative_Samples" target="fadA2" id="553" />
+      <edge source="test_negative_Samples" target="pks13" id="554" />
+      <edge source="test_negative_Samples" target="lat" id="555" />
+      <edge source="test_negative_Samples" target="moaC1" id="556" />
+      <edge source="test_negative_Samples" target="ctpV" id="557" />
+      <edge source="test_negative_Samples" target="zwf2" id="558" />
+      <edge source="test_negative_Samples" target="fadE5" id="559" />
+      <edge source="test_negative_Samples" target="eccD1" id="560" />
+      <edge source="test_negative_Samples" target="trpD" id="561" />
+      <edge source="test_negative_Samples" target="lipI" id="562" />
+      <edge source="test_negative_Samples" target="mycP1" id="563" />
+      <edge source="test_negative_Samples" target="fbpC" id="564" />
+      <edge source="test_negative_Samples" target="polA" id="565" />
+      <edge source="test_negative_Samples" target="gnd1" id="566" />
+      <edge source="test_negative_Samples" target="kstD" id="567" />
+      <edge source="test_negative_Samples" target="malQ" id="568" />
+      <edge source="test_negative_Samples" target="hycP" id="569" />
+      <edge source="test_negative_Samples" target="egtC" id="570" />
+      <edge source="test_negative_Samples" target="folC" id="571" />
+      <edge source="test_negative_Samples" target="fas" id="572" />
+      <edge source="test_negative_Samples" target="treY" id="573" />
+      <edge source="test_negative_Samples" target="secA2" id="574" />
+      <edge source="test_negative_Samples" target="pncA" id="575" />
+      <edge source="test_negative_Samples" target="sseB" id="576" />
+      <edge source="test_negative_Samples" target="oxyS" id="577" />
+      <edge source="test_negative_Samples" target="esxW" id="578" />
+      <edge source="test_negative_Samples" target="nadE" id="579" />
+      <edge source="test_negative_Samples" target="mmpL8" id="580" />
+      <edge source="test_negative_Samples" target="secD" id="581" />
+      <edge source="test_negative_Samples" target="guaB2" id="582" />
+      <edge source="test_negative_Samples" target="nrdZ" id="583" />
+      <edge source="test_negative_Samples" target="ctpH" id="584" />
+      <edge source="test_negative_Samples" target="pks4" id="585" />
+      <edge source="test_negative_Samples" target="cobN" id="586" />
+      <edge source="test_negative_Samples" target="fadD24" id="587" />
+      <edge source="test_negative_Samples" target="accA1" id="588" />
+      <edge source="test_negative_Samples" target="esxK" id="589" />
+      <edge source="test_negative_Samples" target="cobG" id="590" />
+      <edge source="test_negative_Samples" target="cyp126" id="591" />
+      <edge source="test_negative_Samples" target="gpdA2" id="592" />
+      <edge source="test_negative_Samples" target="aftB" id="593" />
+      <edge source="test_negative_Samples" target="nat" id="594" />
+      <edge source="test_negative_Samples" target="ppsE" id="595" />
+      <edge source="test_negative_Samples" target="eccC3" id="596" />
+      <edge source="test_negative_Samples" target="ppsA" id="597" />
+      <edge source="test_negative_Samples" target="cobK" id="598" />
+      <edge source="test_negative_Samples" target="fadB" id="599" />
+      <edge source="test_negative_Samples" target="pks2" id="600" />
+      <edge source="test_negative_Samples" target="eccC2" id="601" />
+      <edge source="test_negative_Samples" target="recB" id="602" />
+      <edge source="test_negative_Samples" target="ctpJ" id="603" />
+      <edge source="test_negative_Samples" target="bglS" id="604" />
+      <edge source="test_negative_Samples" target="rpfB" id="605" />
+      <edge source="test_negative_Samples" target="pks17" id="606" />
+      <edge source="test_negative_Samples" target="pta" id="607" />
+      <edge source="test_negative_Samples" target="ureC" id="608" />
+      <edge source="test_negative_Samples" target="amiD" id="609" />
+      <edge source="test_negative_Samples" target="eccD4" id="610" />
+      <edge source="test_negative_Samples" target="lppB" id="611" />
+      <edge source="test_negative_Samples" target="fadD5" id="612" />
+      <edge source="test_negative_Samples" target="eccB1" id="613" />
+      <edge source="test_negative_Samples" target="eccA2" id="614" />
+      <edge source="test_negative_Samples" target="pks7" id="615" />
+      <edge source="test_negative_Samples" target="pknG" id="616" />
+      <edge source="test_negative_Samples" target="moaA1" id="617" />
+      <edge source="test_negative_Samples" target="pbpB" id="618" />
+      <edge source="test_negative_Samples" target="rplE" id="619" />
+      <edge source="test_negative_Samples" target="dipZ" id="620" />
+      <edge source="test_negative_Samples" target="rpfA" id="621" />
+      <edge source="test_negative_Samples" target="scpA" id="622" />
+      <edge source="test_negative_Samples" target="ctpD" id="623" />
+      <edge source="test_negative_Samples" target="orn" id="624" />
+      <edge source="test_negative_Samples" target="lipJ" id="625" />
+      <edge source="test_negative_Samples" target="fadE23" id="626" />
+      <edge source="test_negative_Samples" target="eccCa1" id="627" />
+      <edge source="test_negative_Samples" target="ppsB" id="628" />
+      <edge source="test_negative_Samples" target="eccD2" id="629" />
+      <edge source="test_negative_Samples" target="mpt64" id="630" />
+      <edge source="test_negative_Samples" target="gca" id="631" />
+      <edge source="test_negative_Samples" target="echA18" id="632" />
+      <edge source="test_negative_Samples" target="gshA" id="633" />
+      <edge source="test_negative_Samples" target="mbtF" id="634" />
+      <edge source="test_negative_Samples" target="pks9" id="635" />
+      <edge source="test_negative_Samples" target="atsB" id="636" />
+      <edge source="test_negative_Samples" target="pks12" id="637" />
+      <edge source="test_negative_Samples" target="acrA1" id="638" />
+      <edge source="test_negative_Samples" target="pdc" id="639" />
+    </edges>
+  </graph>
+</gexf>

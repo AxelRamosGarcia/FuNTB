@@ -1,0 +1,2116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="node" attr.name="size" attr.type="float" />
+  <key id="d1" for="node" attr.name="color" attr.type="string" />
+  <key id="d0" for="node" attr.name="size" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="test_positive_Samples">
+      <data key="d0">10000.0</data>
+      <data key="d1">#39eefa</data>
+    </node>
+    <node id="test_negative_Samples">
+      <data key="d0">10000.0</data>
+      <data key="d1">#d9eb24</data>
+    </node>
+    <node id="mazF5">
+      <data key="d1">#39eefa</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="zwf1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="iniC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">127.2</data>
+    </node>
+    <node id="garA">
+      <data key="d1">#39eefa</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="esxF">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="mutA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">533.6</data>
+    </node>
+    <node id="devB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">148.0</data>
+    </node>
+    <node id="pks8">
+      <data key="d1">#716ff6</data>
+      <data key="d2">208.8</data>
+    </node>
+    <node id="glpX">
+      <data key="d1">#39eefa</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="plsB1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">777.6</data>
+    </node>
+    <node id="pssA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">2222.4</data>
+    </node>
+    <node id="lpqL">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="ctpC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">111.2</data>
+    </node>
+    <node id="mez">
+      <data key="d1">#39eefa</data>
+      <data key="d2">533.6</data>
+    </node>
+    <node id="accD1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">2370.4</data>
+    </node>
+    <node id="glpK">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="mihF">
+      <data key="d1">#39eefa</data>
+      <data key="d2">3555.2</data>
+    </node>
+    <node id="rplI">
+      <data key="d1">#39eefa</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="lprK">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="gyrB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">388.8</data>
+    </node>
+    <node id="lipU">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="mmpL12">
+      <data key="d1">#716ff6</data>
+      <data key="d2">111.2</data>
+    </node>
+    <node id="carA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">740.8</data>
+    </node>
+    <node id="argH">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1184.8</data>
+    </node>
+    <node id="nrp">
+      <data key="d1">#716ff6</data>
+      <data key="d2">646.4</data>
+    </node>
+    <node id="cobM">
+      <data key="d1">#716ff6</data>
+      <data key="d2">177.6</data>
+    </node>
+    <node id="mmpS2">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1777.6</data>
+    </node>
+    <node id="eccC4">
+      <data key="d1">#716ff6</data>
+      <data key="d2">355.2</data>
+    </node>
+    <node id="plsC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">266.4</data>
+    </node>
+    <node id="nth">
+      <data key="d1">#716ff6</data>
+      <data key="d2">148.0</data>
+    </node>
+    <node id="fadD9">
+      <data key="d1">#716ff6</data>
+      <data key="d2">63.2</data>
+    </node>
+    <node id="xerC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="fadD31">
+      <data key="d1">#716ff6</data>
+      <data key="d2">197.6</data>
+    </node>
+    <node id="pfkB">
+      <data key="d1">#39eefa</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="fadD22">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="gid">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="fadE10">
+      <data key="d1">#716ff6</data>
+      <data key="d2">323.2</data>
+    </node>
+    <node id="rpsA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">355.2</data>
+    </node>
+    <node id="fdxD">
+      <data key="d1">#39eefa</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="sdhD">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1777.6</data>
+    </node>
+    <node id="mbtE">
+      <data key="d1">#716ff6</data>
+      <data key="d2">533.6</data>
+    </node>
+    <node id="ask">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1333.6</data>
+    </node>
+    <node id="rpsP">
+      <data key="d1">#39eefa</data>
+      <data key="d2">4444.8</data>
+    </node>
+    <node id="rne">
+      <data key="d1">#716ff6</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="fadE4">
+      <data key="d1">#716ff6</data>
+      <data key="d2">111.2</data>
+    </node>
+    <node id="desA3">
+      <data key="d1">#39eefa</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="mmpL9">
+      <data key="d1">#716ff6</data>
+      <data key="d2">266.4</data>
+    </node>
+    <node id="rpoC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">38.4</data>
+    </node>
+    <node id="argS">
+      <data key="d1">#716ff6</data>
+      <data key="d2">533.6</data>
+    </node>
+    <node id="fbpB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1184.8</data>
+    </node>
+    <node id="fadA6">
+      <data key="d1">#716ff6</data>
+      <data key="d2">222.4</data>
+    </node>
+    <node id="cyp142">
+      <data key="d1">#716ff6</data>
+      <data key="d2">88.8</data>
+    </node>
+    <node id="adhD">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1333.6</data>
+    </node>
+    <node id="pgi">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1111.2</data>
+    </node>
+    <node id="murF">
+      <data key="d1">#39eefa</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="pepD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">222.4</data>
+    </node>
+    <node id="fadD30">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1184.8</data>
+    </node>
+    <node id="mshB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">533.6</data>
+    </node>
+    <node id="espI">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="dnaJ1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">592.8</data>
+    </node>
+    <node id="lipW">
+      <data key="d1">#39eefa</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="kdpD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">418.4</data>
+    </node>
+    <node id="glgC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1066.4</data>
+    </node>
+    <node id="gltB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">74.4</data>
+    </node>
+    <node id="lppR">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="ino1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="hemC">
+      <data key="d1">#39eefa</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="mmsA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="mmpL10">
+      <data key="d1">#716ff6</data>
+      <data key="d2">395.2</data>
+    </node>
+    <node id="nrdE">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1111.2</data>
+    </node>
+    <node id="rpoB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">782.4</data>
+    </node>
+    <node id="vapB38">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1777.6</data>
+    </node>
+    <node id="aldA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="narK1">
+      <data key="d1">#39eefa</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="htpG">
+      <data key="d1">#716ff6</data>
+      <data key="d2">80.8</data>
+    </node>
+    <node id="mbtB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="purH">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1600.0</data>
+    </node>
+    <node id="mce2D">
+      <data key="d1">#716ff6</data>
+      <data key="d2">555.2</data>
+    </node>
+    <node id="sigM">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="tesA">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1333.6</data>
+    </node>
+    <node id="otsB1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">627.2</data>
+    </node>
+    <node id="rip">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1333.6</data>
+    </node>
+    <node id="gabD1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="fadD29">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="rmlC">
+      <data key="d1">#39eefa</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="accD4">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1777.6</data>
+    </node>
+    <node id="cyp135B1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="aroB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1184.8</data>
+    </node>
+    <node id="fabG4">
+      <data key="d1">#716ff6</data>
+      <data key="d2">161.6</data>
+    </node>
+    <node id="folK">
+      <data key="d1">#39eefa</data>
+      <data key="d2">177.6</data>
+    </node>
+    <node id="mbtJ">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1555.2</data>
+    </node>
+    <node id="hycE">
+      <data key="d1">#716ff6</data>
+      <data key="d2">127.2</data>
+    </node>
+    <node id="rocA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">98.4</data>
+    </node>
+    <node id="nadB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="ppsC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">212.0</data>
+    </node>
+    <node id="fmu">
+      <data key="d1">#39eefa</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="pepE">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1244.8</data>
+    </node>
+    <node id="pstB">
+      <data key="d1">#39eefa</data>
+      <data key="d2">2666.4</data>
+    </node>
+    <node id="echA10">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1244.8</data>
+    </node>
+    <node id="glyA2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">761.6</data>
+    </node>
+    <node id="tesB1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">253.6</data>
+    </node>
+    <node id="trmU">
+      <data key="d1">#716ff6</data>
+      <data key="d2">2000.0</data>
+    </node>
+    <node id="lprD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1481.6</data>
+    </node>
+    <node id="arsB1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">98.4</data>
+    </node>
+    <node id="metH">
+      <data key="d1">#716ff6</data>
+      <data key="d2">833.6</data>
+    </node>
+    <node id="mce1D">
+      <data key="d1">#716ff6</data>
+      <data key="d2">547.2</data>
+    </node>
+    <node id="fabG3">
+      <data key="d1">#39eefa</data>
+      <data key="d2">222.4</data>
+    </node>
+    <node id="ugpE">
+      <data key="d1">#716ff6</data>
+      <data key="d2">380.8</data>
+    </node>
+    <node id="gltS">
+      <data key="d1">#716ff6</data>
+      <data key="d2">177.6</data>
+    </node>
+    <node id="mbtD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="ctpB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">273.6</data>
+    </node>
+    <node id="grcC2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1016.0</data>
+    </node>
+    <node id="echA9">
+      <data key="d1">#716ff6</data>
+      <data key="d2">253.6</data>
+    </node>
+    <node id="fadD25">
+      <data key="d1">#716ff6</data>
+      <data key="d2">266.4</data>
+    </node>
+    <node id="fadE2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1111.2</data>
+    </node>
+    <node id="rplL">
+      <data key="d1">#39eefa</data>
+      <data key="d2">2666.4</data>
+    </node>
+    <node id="dapC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="relA">
+      <data key="d1">#39eefa</data>
+      <data key="d2">592.8</data>
+    </node>
+    <node id="pknD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">518.4</data>
+    </node>
+    <node id="ctpI">
+      <data key="d1">#716ff6</data>
+      <data key="d2">74.4</data>
+    </node>
+    <node id="ileS">
+      <data key="d1">#716ff6</data>
+      <data key="d2">74.4</data>
+    </node>
+    <node id="aftA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="cut2">
+      <data key="d1">#39eefa</data>
+      <data key="d2">2666.4</data>
+    </node>
+    <node id="espK">
+      <data key="d1">#716ff6</data>
+      <data key="d2">156.8</data>
+    </node>
+    <node id="mrsA">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1481.6</data>
+    </node>
+    <node id="celA1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">2074.4</data>
+    </node>
+    <node id="cyp139">
+      <data key="d1">#39eefa</data>
+      <data key="d2">222.4</data>
+    </node>
+    <node id="tkt">
+      <data key="d1">#716ff6</data>
+      <data key="d2">88.8</data>
+    </node>
+    <node id="echA20">
+      <data key="d1">#716ff6</data>
+      <data key="d2">2074.4</data>
+    </node>
+    <node id="helZ">
+      <data key="d1">#716ff6</data>
+      <data key="d2">140.0</data>
+    </node>
+    <node id="atsA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">333.6</data>
+    </node>
+    <node id="PE3">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="smc">
+      <data key="d1">#716ff6</data>
+      <data key="d2">410.4</data>
+    </node>
+    <node id="espE">
+      <data key="d1">#716ff6</data>
+      <data key="d2">615.2</data>
+    </node>
+    <node id="ilvG">
+      <data key="d1">#716ff6</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="lprQ">
+      <data key="d1">#39eefa</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="moaE1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1066.4</data>
+    </node>
+    <node id="nuoM">
+      <data key="d1">#39eefa</data>
+      <data key="d2">148.0</data>
+    </node>
+    <node id="lppZ">
+      <data key="d1">#716ff6</data>
+      <data key="d2">253.6</data>
+    </node>
+    <node id="gabD2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">800.0</data>
+    </node>
+    <node id="acs">
+      <data key="d1">#716ff6</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="gmhA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="katG">
+      <data key="d1">#716ff6</data>
+      <data key="d2">49.6</data>
+    </node>
+    <node id="adh">
+      <data key="d1">#716ff6</data>
+      <data key="d2">333.6</data>
+    </node>
+    <node id="narG">
+      <data key="d1">#716ff6</data>
+      <data key="d2">127.2</data>
+    </node>
+    <node id="mce4D">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="atpB">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1333.6</data>
+    </node>
+    <node id="moaR1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">333.6</data>
+    </node>
+    <node id="bioF2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="pgmA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="cyp138">
+      <data key="d1">#716ff6</data>
+      <data key="d2">518.4</data>
+    </node>
+    <node id="mprB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">98.4</data>
+    </node>
+    <node id="mscL">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1777.6</data>
+    </node>
+    <node id="nirB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">500.0</data>
+    </node>
+    <node id="fadH">
+      <data key="d1">#716ff6</data>
+      <data key="d2">646.4</data>
+    </node>
+    <node id="cyp128">
+      <data key="d1">#716ff6</data>
+      <data key="d2">533.6</data>
+    </node>
+    <node id="lhr">
+      <data key="d1">#716ff6</data>
+      <data key="d2">59.2</data>
+    </node>
+    <node id="aofH">
+      <data key="d1">#716ff6</data>
+      <data key="d2">493.6</data>
+    </node>
+    <node id="purU">
+      <data key="d1">#39eefa</data>
+      <data key="d2">177.6</data>
+    </node>
+    <node id="fprA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">711.2</data>
+    </node>
+    <node id="fadE24">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1111.2</data>
+    </node>
+    <node id="mmpL2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">727.2</data>
+    </node>
+    <node id="pknK">
+      <data key="d1">#716ff6</data>
+      <data key="d2">355.2</data>
+    </node>
+    <node id="echA14">
+      <data key="d1">#716ff6</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="frdD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">2222.4</data>
+    </node>
+    <node id="ilvA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="hycQ">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1143.2</data>
+    </node>
+    <node id="ppsD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="recC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">333.6</data>
+    </node>
+    <node id="dnaB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">691.2</data>
+    </node>
+    <node id="uvrD1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="phoH1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">691.2</data>
+    </node>
+    <node id="ligD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">197.6</data>
+    </node>
+    <node id="fusA2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="phoR">
+      <data key="d1">#716ff6</data>
+      <data key="d2">161.6</data>
+    </node>
+    <node id="aftD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="glgP">
+      <data key="d1">#716ff6</data>
+      <data key="d2">80.8</data>
+    </node>
+    <node id="fadE34">
+      <data key="d1">#716ff6</data>
+      <data key="d2">127.2</data>
+    </node>
+    <node id="carB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="priA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">635.2</data>
+    </node>
+    <node id="ctpA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">333.6</data>
+    </node>
+    <node id="gmhB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1422.4</data>
+    </node>
+    <node id="dinF">
+      <data key="d1">#716ff6</data>
+      <data key="d2">88.8</data>
+    </node>
+    <node id="PE4">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="nanT">
+      <data key="d1">#716ff6</data>
+      <data key="d2">404.0</data>
+    </node>
+    <node id="mmpL5">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="pks5">
+      <data key="d1">#716ff6</data>
+      <data key="d2">457.6</data>
+    </node>
+    <node id="irtA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="cysE">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1396.8</data>
+    </node>
+    <node id="murB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">508.0</data>
+    </node>
+    <node id="ethA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">177.6</data>
+    </node>
+    <node id="mtr">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1481.6</data>
+    </node>
+    <node id="speE">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="stp">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="moeY">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="ctpF">
+      <data key="d1">#716ff6</data>
+      <data key="d2">156.8</data>
+    </node>
+    <node id="clpC2">
+      <data key="d1">#39eefa</data>
+      <data key="d2">177.6</data>
+    </node>
+    <node id="lprE">
+      <data key="d1">#39eefa</data>
+      <data key="d2">7111.2</data>
+    </node>
+    <node id="fadA3">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1184.8</data>
+    </node>
+    <node id="mmpL1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="thiS">
+      <data key="d1">#39eefa</data>
+      <data key="d2">3555.2</data>
+    </node>
+    <node id="pheT">
+      <data key="d1">#716ff6</data>
+      <data key="d2">80.8</data>
+    </node>
+    <node id="leuS">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1184.8</data>
+    </node>
+    <node id="pks1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">190.4</data>
+    </node>
+    <node id="eccE1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">59.2</data>
+    </node>
+    <node id="pknB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="ltp4">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="treX">
+      <data key="d1">#716ff6</data>
+      <data key="d2">484.8</data>
+    </node>
+    <node id="pks15">
+      <data key="d1">#716ff6</data>
+      <data key="d2">204.8</data>
+    </node>
+    <node id="lipD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">508.0</data>
+    </node>
+    <node id="pncB2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">592.8</data>
+    </node>
+    <node id="htdZ">
+      <data key="d1">#39eefa</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="ilvB2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">177.6</data>
+    </node>
+    <node id="mas">
+      <data key="d1">#716ff6</data>
+      <data key="d2">270.4</data>
+    </node>
+    <node id="amiC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">592.8</data>
+    </node>
+    <node id="pimE">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="mazE4">
+      <data key="d1">#39eefa</data>
+      <data key="d2">6222.4</data>
+    </node>
+    <node id="pks6">
+      <data key="d1">#716ff6</data>
+      <data key="d2">426.4</data>
+    </node>
+    <node id="eccCb1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="mce1C">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="atsD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">68.0</data>
+    </node>
+    <node id="gyrA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="iniB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">395.2</data>
+    </node>
+    <node id="gltD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1555.2</data>
+    </node>
+    <node id="mqo">
+      <data key="d1">#716ff6</data>
+      <data key="d2">380.8</data>
+    </node>
+    <node id="mesJ">
+      <data key="d1">#39eefa</data>
+      <data key="d2">592.8</data>
+    </node>
+    <node id="dinX">
+      <data key="d1">#716ff6</data>
+      <data key="d2">555.2</data>
+    </node>
+    <node id="fadD4">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="eccA3">
+      <data key="d1">#39eefa</data>
+      <data key="d2">711.2</data>
+    </node>
+    <node id="gdh">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="proA">
+      <data key="d1">#39eefa</data>
+      <data key="d2">355.2</data>
+    </node>
+    <node id="rbsK">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1036.8</data>
+    </node>
+    <node id="fadD34">
+      <data key="d1">#716ff6</data>
+      <data key="d2">820.8</data>
+    </node>
+    <node id="cysD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">197.6</data>
+    </node>
+    <node id="treZ">
+      <data key="d1">#716ff6</data>
+      <data key="d2">323.2</data>
+    </node>
+    <node id="oplA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">140.0</data>
+    </node>
+    <node id="ppgK">
+      <data key="d1">#716ff6</data>
+      <data key="d2">761.6</data>
+    </node>
+    <node id="gpdA1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">3111.2</data>
+    </node>
+    <node id="alkB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1066.4</data>
+    </node>
+    <node id="ppk1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">592.8</data>
+    </node>
+    <node id="fadA2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1016.0</data>
+    </node>
+    <node id="pks13">
+      <data key="d1">#716ff6</data>
+      <data key="d2">341.6</data>
+    </node>
+    <node id="lat">
+      <data key="d1">#716ff6</data>
+      <data key="d2">136.8</data>
+    </node>
+    <node id="aspS">
+      <data key="d1">#39eefa</data>
+      <data key="d2">127.2</data>
+    </node>
+    <node id="ctpV">
+      <data key="d1">#716ff6</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="zwf2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">555.2</data>
+    </node>
+    <node id="fadE5">
+      <data key="d1">#716ff6</data>
+      <data key="d2">948.0</data>
+    </node>
+    <node id="eccD1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">313.6</data>
+    </node>
+    <node id="trpD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1555.2</data>
+    </node>
+    <node id="lipI">
+      <data key="d1">#716ff6</data>
+      <data key="d2">380.8</data>
+    </node>
+    <node id="mycP1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="fbpC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">2000.0</data>
+    </node>
+    <node id="polA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="gnd1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1333.6</data>
+    </node>
+    <node id="kstD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1269.6</data>
+    </node>
+    <node id="malQ">
+      <data key="d1">#716ff6</data>
+      <data key="d2">622.4</data>
+    </node>
+    <node id="hycP">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1777.6</data>
+    </node>
+    <node id="plsB2">
+      <data key="d1">#39eefa</data>
+      <data key="d2">761.6</data>
+    </node>
+    <node id="egtC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">740.8</data>
+    </node>
+    <node id="folC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">161.6</data>
+    </node>
+    <node id="treY">
+      <data key="d1">#716ff6</data>
+      <data key="d2">380.8</data>
+    </node>
+    <node id="fas">
+      <data key="d1">#716ff6</data>
+      <data key="d2">270.4</data>
+    </node>
+    <node id="oppD">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1184.8</data>
+    </node>
+    <node id="secA2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">635.2</data>
+    </node>
+    <node id="pncA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="rpsI">
+      <data key="d1">#39eefa</data>
+      <data key="d2">3555.2</data>
+    </node>
+    <node id="sseB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1111.2</data>
+    </node>
+    <node id="oxyS">
+      <data key="d1">#716ff6</data>
+      <data key="d2">592.8</data>
+    </node>
+    <node id="nadE">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1777.6</data>
+    </node>
+    <node id="aprB">
+      <data key="d1">#39eefa</data>
+      <data key="d2">2222.4</data>
+    </node>
+    <node id="mmpL8">
+      <data key="d1">#716ff6</data>
+      <data key="d2">266.4</data>
+    </node>
+    <node id="secD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">790.4</data>
+    </node>
+    <node id="guaB2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">711.2</data>
+    </node>
+    <node id="nrdZ">
+      <data key="d1">#716ff6</data>
+      <data key="d2">777.6</data>
+    </node>
+    <node id="ctpH">
+      <data key="d1">#716ff6</data>
+      <data key="d2">236.8</data>
+    </node>
+    <node id="pks4">
+      <data key="d1">#716ff6</data>
+      <data key="d2">111.2</data>
+    </node>
+    <node id="cobO">
+      <data key="d1">#39eefa</data>
+      <data key="d2">222.4</data>
+    </node>
+    <node id="cysG">
+      <data key="d1">#39eefa</data>
+      <data key="d2">355.2</data>
+    </node>
+    <node id="cobN">
+      <data key="d1">#716ff6</data>
+      <data key="d2">404.0</data>
+    </node>
+    <node id="fadD24">
+      <data key="d1">#716ff6</data>
+      <data key="d2">493.6</data>
+    </node>
+    <node id="accA1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">204.8</data>
+    </node>
+    <node id="eccB3">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1481.6</data>
+    </node>
+    <node id="pmmA">
+      <data key="d1">#39eefa</data>
+      <data key="d2">592.8</data>
+    </node>
+    <node id="cobG">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1184.8</data>
+    </node>
+    <node id="cyp126">
+      <data key="d1">#716ff6</data>
+      <data key="d2">740.8</data>
+    </node>
+    <node id="gpdA2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="aftB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="ppsE">
+      <data key="d1">#716ff6</data>
+      <data key="d2">395.2</data>
+    </node>
+    <node id="eccC3">
+      <data key="d1">#716ff6</data>
+      <data key="d2">323.2</data>
+    </node>
+    <node id="ppsA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">808.0</data>
+    </node>
+    <node id="cobK">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1777.6</data>
+    </node>
+    <node id="hisH">
+      <data key="d1">#39eefa</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="fadB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="pks2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">508.0</data>
+    </node>
+    <node id="eccC2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">336.8</data>
+    </node>
+    <node id="recB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">277.6</data>
+    </node>
+    <node id="ligB">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1555.2</data>
+    </node>
+    <node id="ctpJ">
+      <data key="d1">#716ff6</data>
+      <data key="d2">148.0</data>
+    </node>
+    <node id="bglS">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="rpfB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1955.2</data>
+    </node>
+    <node id="pks17">
+      <data key="d1">#716ff6</data>
+      <data key="d2">493.6</data>
+    </node>
+    <node id="gcvH">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1333.6</data>
+    </node>
+    <node id="espG3">
+      <data key="d1">#39eefa</data>
+      <data key="d2">2074.4</data>
+    </node>
+    <node id="pta">
+      <data key="d1">#716ff6</data>
+      <data key="d2">508.0</data>
+    </node>
+    <node id="sapM">
+      <data key="d1">#39eefa</data>
+      <data key="d2">508.0</data>
+    </node>
+    <node id="ureC">
+      <data key="d1">#716ff6</data>
+      <data key="d2">355.2</data>
+    </node>
+    <node id="dacB2">
+      <data key="d1">#39eefa</data>
+      <data key="d2">3333.6</data>
+    </node>
+    <node id="fadB2">
+      <data key="d1">#39eefa</data>
+      <data key="d2">2666.4</data>
+    </node>
+    <node id="amiD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">222.4</data>
+    </node>
+    <node id="eccD4">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="lppB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">2666.4</data>
+    </node>
+    <node id="fadD5">
+      <data key="d1">#716ff6</data>
+      <data key="d2">370.4</data>
+    </node>
+    <node id="eccB1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">222.4</data>
+    </node>
+    <node id="ftsY">
+      <data key="d1">#39eefa</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="eccA2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">166.4</data>
+    </node>
+    <node id="pks7">
+      <data key="d1">#716ff6</data>
+      <data key="d2">236.8</data>
+    </node>
+    <node id="pknG">
+      <data key="d1">#716ff6</data>
+      <data key="d2">177.6</data>
+    </node>
+    <node id="moaA1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">635.2</data>
+    </node>
+    <node id="pbpB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="rplE">
+      <data key="d1">#716ff6</data>
+      <data key="d2">2666.4</data>
+    </node>
+    <node id="dipZ">
+      <data key="d1">#716ff6</data>
+      <data key="d2">727.2</data>
+    </node>
+    <node id="scpA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1777.6</data>
+    </node>
+    <node id="rpfA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">2000.0</data>
+    </node>
+    <node id="wbbL2">
+      <data key="d1">#39eefa</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="ctpD">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1481.6</data>
+    </node>
+    <node id="lipJ">
+      <data key="d1">#716ff6</data>
+      <data key="d2">370.4</data>
+    </node>
+    <node id="fadE23">
+      <data key="d1">#716ff6</data>
+      <data key="d2">622.4</data>
+    </node>
+    <node id="fadE18">
+      <data key="d1">#39eefa</data>
+      <data key="d2">1111.2</data>
+    </node>
+    <node id="eccCa1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">333.6</data>
+    </node>
+    <node id="ppsB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="eccD2">
+      <data key="d1">#716ff6</data>
+      <data key="d2">127.2</data>
+    </node>
+    <node id="mpt64">
+      <data key="d1">#716ff6</data>
+      <data key="d2">592.8</data>
+    </node>
+    <node id="gca">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="echA18">
+      <data key="d1">#716ff6</data>
+      <data key="d2">1016.0</data>
+    </node>
+    <node id="gshA">
+      <data key="d1">#716ff6</data>
+      <data key="d2">777.6</data>
+    </node>
+    <node id="mbtF">
+      <data key="d1">#716ff6</data>
+      <data key="d2">370.4</data>
+    </node>
+    <node id="pks9">
+      <data key="d1">#716ff6</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="atsB">
+      <data key="d1">#716ff6</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="pks12">
+      <data key="d1">#716ff6</data>
+      <data key="d2">653.6</data>
+    </node>
+    <node id="acrA1">
+      <data key="d1">#716ff6</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="gmdA">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="cmaA2">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="groEL1">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="purB">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="vapC1">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="argG">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="lytB2">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="recF">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="mazF1">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="ephE">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="vapB43">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="fadE29">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="cydB">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">4222.4</data>
+    </node>
+    <node id="hemE">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">296.0</data>
+    </node>
+    <node id="rpsN2">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="vapC37">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">3555.2</data>
+    </node>
+    <node id="lprA">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">444.8</data>
+    </node>
+    <node id="aao">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="thyA">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="moaC1">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="esxW">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">6222.4</data>
+    </node>
+    <node id="esxK">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">8000.0</data>
+    </node>
+    <node id="nat">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">888.8</data>
+    </node>
+    <node id="orn">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">1777.6</data>
+    </node>
+    <node id="pdc">
+      <data key="d1">#d9eb24</data>
+      <data key="d2">1777.6</data>
+    </node>
+    <edge source="test_positive_Samples" target="mazF5" />
+    <edge source="test_positive_Samples" target="zwf1" />
+    <edge source="test_positive_Samples" target="iniC" />
+    <edge source="test_positive_Samples" target="garA" />
+    <edge source="test_positive_Samples" target="esxF" />
+    <edge source="test_positive_Samples" target="mutA" />
+    <edge source="test_positive_Samples" target="devB" />
+    <edge source="test_positive_Samples" target="pks8" />
+    <edge source="test_positive_Samples" target="glpX" />
+    <edge source="test_positive_Samples" target="plsB1" />
+    <edge source="test_positive_Samples" target="pssA" />
+    <edge source="test_positive_Samples" target="lpqL" />
+    <edge source="test_positive_Samples" target="ctpC" />
+    <edge source="test_positive_Samples" target="mez" />
+    <edge source="test_positive_Samples" target="accD1" />
+    <edge source="test_positive_Samples" target="glpK" />
+    <edge source="test_positive_Samples" target="mihF" />
+    <edge source="test_positive_Samples" target="rplI" />
+    <edge source="test_positive_Samples" target="lprK" />
+    <edge source="test_positive_Samples" target="gyrB" />
+    <edge source="test_positive_Samples" target="lipU" />
+    <edge source="test_positive_Samples" target="mmpL12" />
+    <edge source="test_positive_Samples" target="carA" />
+    <edge source="test_positive_Samples" target="argH" />
+    <edge source="test_positive_Samples" target="nrp" />
+    <edge source="test_positive_Samples" target="cobM" />
+    <edge source="test_positive_Samples" target="mmpS2" />
+    <edge source="test_positive_Samples" target="eccC4" />
+    <edge source="test_positive_Samples" target="plsC" />
+    <edge source="test_positive_Samples" target="nth" />
+    <edge source="test_positive_Samples" target="fadD9" />
+    <edge source="test_positive_Samples" target="xerC" />
+    <edge source="test_positive_Samples" target="fadD31" />
+    <edge source="test_positive_Samples" target="pfkB" />
+    <edge source="test_positive_Samples" target="fadD22" />
+    <edge source="test_positive_Samples" target="gid" />
+    <edge source="test_positive_Samples" target="fadE10" />
+    <edge source="test_positive_Samples" target="rpsA" />
+    <edge source="test_positive_Samples" target="fdxD" />
+    <edge source="test_positive_Samples" target="sdhD" />
+    <edge source="test_positive_Samples" target="mbtE" />
+    <edge source="test_positive_Samples" target="ask" />
+    <edge source="test_positive_Samples" target="rpsP" />
+    <edge source="test_positive_Samples" target="rne" />
+    <edge source="test_positive_Samples" target="fadE4" />
+    <edge source="test_positive_Samples" target="desA3" />
+    <edge source="test_positive_Samples" target="mmpL9" />
+    <edge source="test_positive_Samples" target="rpoC" />
+    <edge source="test_positive_Samples" target="argS" />
+    <edge source="test_positive_Samples" target="fbpB" />
+    <edge source="test_positive_Samples" target="fadA6" />
+    <edge source="test_positive_Samples" target="cyp142" />
+    <edge source="test_positive_Samples" target="adhD" />
+    <edge source="test_positive_Samples" target="pgi" />
+    <edge source="test_positive_Samples" target="murF" />
+    <edge source="test_positive_Samples" target="pepD" />
+    <edge source="test_positive_Samples" target="fadD30" />
+    <edge source="test_positive_Samples" target="mshB" />
+    <edge source="test_positive_Samples" target="espI" />
+    <edge source="test_positive_Samples" target="dnaJ1" />
+    <edge source="test_positive_Samples" target="lipW" />
+    <edge source="test_positive_Samples" target="kdpD" />
+    <edge source="test_positive_Samples" target="glgC" />
+    <edge source="test_positive_Samples" target="gltB" />
+    <edge source="test_positive_Samples" target="lppR" />
+    <edge source="test_positive_Samples" target="ino1" />
+    <edge source="test_positive_Samples" target="hemC" />
+    <edge source="test_positive_Samples" target="mmsA" />
+    <edge source="test_positive_Samples" target="mmpL10" />
+    <edge source="test_positive_Samples" target="nrdE" />
+    <edge source="test_positive_Samples" target="rpoB" />
+    <edge source="test_positive_Samples" target="vapB38" />
+    <edge source="test_positive_Samples" target="aldA" />
+    <edge source="test_positive_Samples" target="narK1" />
+    <edge source="test_positive_Samples" target="htpG" />
+    <edge source="test_positive_Samples" target="mbtB" />
+    <edge source="test_positive_Samples" target="purH" />
+    <edge source="test_positive_Samples" target="mce2D" />
+    <edge source="test_positive_Samples" target="sigM" />
+    <edge source="test_positive_Samples" target="tesA" />
+    <edge source="test_positive_Samples" target="otsB1" />
+    <edge source="test_positive_Samples" target="rip" />
+    <edge source="test_positive_Samples" target="gabD1" />
+    <edge source="test_positive_Samples" target="fadD29" />
+    <edge source="test_positive_Samples" target="rmlC" />
+    <edge source="test_positive_Samples" target="accD4" />
+    <edge source="test_positive_Samples" target="cyp135B1" />
+    <edge source="test_positive_Samples" target="aroB" />
+    <edge source="test_positive_Samples" target="fabG4" />
+    <edge source="test_positive_Samples" target="folK" />
+    <edge source="test_positive_Samples" target="mbtJ" />
+    <edge source="test_positive_Samples" target="hycE" />
+    <edge source="test_positive_Samples" target="rocA" />
+    <edge source="test_positive_Samples" target="nadB" />
+    <edge source="test_positive_Samples" target="ppsC" />
+    <edge source="test_positive_Samples" target="fmu" />
+    <edge source="test_positive_Samples" target="pepE" />
+    <edge source="test_positive_Samples" target="pstB" />
+    <edge source="test_positive_Samples" target="echA10" />
+    <edge source="test_positive_Samples" target="glyA2" />
+    <edge source="test_positive_Samples" target="tesB1" />
+    <edge source="test_positive_Samples" target="trmU" />
+    <edge source="test_positive_Samples" target="lprD" />
+    <edge source="test_positive_Samples" target="arsB1" />
+    <edge source="test_positive_Samples" target="metH" />
+    <edge source="test_positive_Samples" target="mce1D" />
+    <edge source="test_positive_Samples" target="fabG3" />
+    <edge source="test_positive_Samples" target="ugpE" />
+    <edge source="test_positive_Samples" target="gltS" />
+    <edge source="test_positive_Samples" target="mbtD" />
+    <edge source="test_positive_Samples" target="ctpB" />
+    <edge source="test_positive_Samples" target="grcC2" />
+    <edge source="test_positive_Samples" target="echA9" />
+    <edge source="test_positive_Samples" target="fadD25" />
+    <edge source="test_positive_Samples" target="fadE2" />
+    <edge source="test_positive_Samples" target="rplL" />
+    <edge source="test_positive_Samples" target="dapC" />
+    <edge source="test_positive_Samples" target="relA" />
+    <edge source="test_positive_Samples" target="pknD" />
+    <edge source="test_positive_Samples" target="ctpI" />
+    <edge source="test_positive_Samples" target="ileS" />
+    <edge source="test_positive_Samples" target="aftA" />
+    <edge source="test_positive_Samples" target="cut2" />
+    <edge source="test_positive_Samples" target="espK" />
+    <edge source="test_positive_Samples" target="mrsA" />
+    <edge source="test_positive_Samples" target="celA1" />
+    <edge source="test_positive_Samples" target="cyp139" />
+    <edge source="test_positive_Samples" target="tkt" />
+    <edge source="test_positive_Samples" target="echA20" />
+    <edge source="test_positive_Samples" target="helZ" />
+    <edge source="test_positive_Samples" target="atsA" />
+    <edge source="test_positive_Samples" target="PE3" />
+    <edge source="test_positive_Samples" target="smc" />
+    <edge source="test_positive_Samples" target="espE" />
+    <edge source="test_positive_Samples" target="ilvG" />
+    <edge source="test_positive_Samples" target="lprQ" />
+    <edge source="test_positive_Samples" target="moaE1" />
+    <edge source="test_positive_Samples" target="nuoM" />
+    <edge source="test_positive_Samples" target="lppZ" />
+    <edge source="test_positive_Samples" target="gabD2" />
+    <edge source="test_positive_Samples" target="acs" />
+    <edge source="test_positive_Samples" target="gmhA" />
+    <edge source="test_positive_Samples" target="katG" />
+    <edge source="test_positive_Samples" target="adh" />
+    <edge source="test_positive_Samples" target="narG" />
+    <edge source="test_positive_Samples" target="mce4D" />
+    <edge source="test_positive_Samples" target="atpB" />
+    <edge source="test_positive_Samples" target="moaR1" />
+    <edge source="test_positive_Samples" target="bioF2" />
+    <edge source="test_positive_Samples" target="pgmA" />
+    <edge source="test_positive_Samples" target="cyp138" />
+    <edge source="test_positive_Samples" target="mprB" />
+    <edge source="test_positive_Samples" target="mscL" />
+    <edge source="test_positive_Samples" target="nirB" />
+    <edge source="test_positive_Samples" target="fadH" />
+    <edge source="test_positive_Samples" target="cyp128" />
+    <edge source="test_positive_Samples" target="lhr" />
+    <edge source="test_positive_Samples" target="aofH" />
+    <edge source="test_positive_Samples" target="purU" />
+    <edge source="test_positive_Samples" target="fprA" />
+    <edge source="test_positive_Samples" target="fadE24" />
+    <edge source="test_positive_Samples" target="mmpL2" />
+    <edge source="test_positive_Samples" target="pknK" />
+    <edge source="test_positive_Samples" target="echA14" />
+    <edge source="test_positive_Samples" target="frdD" />
+    <edge source="test_positive_Samples" target="ilvA" />
+    <edge source="test_positive_Samples" target="hycQ" />
+    <edge source="test_positive_Samples" target="ppsD" />
+    <edge source="test_positive_Samples" target="recC" />
+    <edge source="test_positive_Samples" target="dnaB" />
+    <edge source="test_positive_Samples" target="uvrD1" />
+    <edge source="test_positive_Samples" target="phoH1" />
+    <edge source="test_positive_Samples" target="ligD" />
+    <edge source="test_positive_Samples" target="fusA2" />
+    <edge source="test_positive_Samples" target="phoR" />
+    <edge source="test_positive_Samples" target="aftD" />
+    <edge source="test_positive_Samples" target="glgP" />
+    <edge source="test_positive_Samples" target="fadE34" />
+    <edge source="test_positive_Samples" target="carB" />
+    <edge source="test_positive_Samples" target="priA" />
+    <edge source="test_positive_Samples" target="ctpA" />
+    <edge source="test_positive_Samples" target="gmhB" />
+    <edge source="test_positive_Samples" target="dinF" />
+    <edge source="test_positive_Samples" target="PE4" />
+    <edge source="test_positive_Samples" target="nanT" />
+    <edge source="test_positive_Samples" target="mmpL5" />
+    <edge source="test_positive_Samples" target="pks5" />
+    <edge source="test_positive_Samples" target="irtA" />
+    <edge source="test_positive_Samples" target="cysE" />
+    <edge source="test_positive_Samples" target="murB" />
+    <edge source="test_positive_Samples" target="ethA" />
+    <edge source="test_positive_Samples" target="mtr" />
+    <edge source="test_positive_Samples" target="speE" />
+    <edge source="test_positive_Samples" target="stp" />
+    <edge source="test_positive_Samples" target="moeY" />
+    <edge source="test_positive_Samples" target="ctpF" />
+    <edge source="test_positive_Samples" target="clpC2" />
+    <edge source="test_positive_Samples" target="lprE" />
+    <edge source="test_positive_Samples" target="fadA3" />
+    <edge source="test_positive_Samples" target="mmpL1" />
+    <edge source="test_positive_Samples" target="thiS" />
+    <edge source="test_positive_Samples" target="pheT" />
+    <edge source="test_positive_Samples" target="leuS" />
+    <edge source="test_positive_Samples" target="pks1" />
+    <edge source="test_positive_Samples" target="eccE1" />
+    <edge source="test_positive_Samples" target="pknB" />
+    <edge source="test_positive_Samples" target="ltp4" />
+    <edge source="test_positive_Samples" target="treX" />
+    <edge source="test_positive_Samples" target="pks15" />
+    <edge source="test_positive_Samples" target="lipD" />
+    <edge source="test_positive_Samples" target="pncB2" />
+    <edge source="test_positive_Samples" target="htdZ" />
+    <edge source="test_positive_Samples" target="ilvB2" />
+    <edge source="test_positive_Samples" target="mas" />
+    <edge source="test_positive_Samples" target="amiC" />
+    <edge source="test_positive_Samples" target="pimE" />
+    <edge source="test_positive_Samples" target="mazE4" />
+    <edge source="test_positive_Samples" target="pks6" />
+    <edge source="test_positive_Samples" target="eccCb1" />
+    <edge source="test_positive_Samples" target="mce1C" />
+    <edge source="test_positive_Samples" target="atsD" />
+    <edge source="test_positive_Samples" target="gyrA" />
+    <edge source="test_positive_Samples" target="iniB" />
+    <edge source="test_positive_Samples" target="gltD" />
+    <edge source="test_positive_Samples" target="mqo" />
+    <edge source="test_positive_Samples" target="mesJ" />
+    <edge source="test_positive_Samples" target="dinX" />
+    <edge source="test_positive_Samples" target="fadD4" />
+    <edge source="test_positive_Samples" target="eccA3" />
+    <edge source="test_positive_Samples" target="gdh" />
+    <edge source="test_positive_Samples" target="proA" />
+    <edge source="test_positive_Samples" target="rbsK" />
+    <edge source="test_positive_Samples" target="fadD34" />
+    <edge source="test_positive_Samples" target="cysD" />
+    <edge source="test_positive_Samples" target="treZ" />
+    <edge source="test_positive_Samples" target="oplA" />
+    <edge source="test_positive_Samples" target="ppgK" />
+    <edge source="test_positive_Samples" target="gpdA1" />
+    <edge source="test_positive_Samples" target="alkB" />
+    <edge source="test_positive_Samples" target="ppk1" />
+    <edge source="test_positive_Samples" target="fadA2" />
+    <edge source="test_positive_Samples" target="pks13" />
+    <edge source="test_positive_Samples" target="lat" />
+    <edge source="test_positive_Samples" target="aspS" />
+    <edge source="test_positive_Samples" target="ctpV" />
+    <edge source="test_positive_Samples" target="zwf2" />
+    <edge source="test_positive_Samples" target="fadE5" />
+    <edge source="test_positive_Samples" target="eccD1" />
+    <edge source="test_positive_Samples" target="trpD" />
+    <edge source="test_positive_Samples" target="lipI" />
+    <edge source="test_positive_Samples" target="mycP1" />
+    <edge source="test_positive_Samples" target="fbpC" />
+    <edge source="test_positive_Samples" target="polA" />
+    <edge source="test_positive_Samples" target="gnd1" />
+    <edge source="test_positive_Samples" target="kstD" />
+    <edge source="test_positive_Samples" target="malQ" />
+    <edge source="test_positive_Samples" target="hycP" />
+    <edge source="test_positive_Samples" target="plsB2" />
+    <edge source="test_positive_Samples" target="egtC" />
+    <edge source="test_positive_Samples" target="folC" />
+    <edge source="test_positive_Samples" target="treY" />
+    <edge source="test_positive_Samples" target="fas" />
+    <edge source="test_positive_Samples" target="oppD" />
+    <edge source="test_positive_Samples" target="secA2" />
+    <edge source="test_positive_Samples" target="pncA" />
+    <edge source="test_positive_Samples" target="rpsI" />
+    <edge source="test_positive_Samples" target="sseB" />
+    <edge source="test_positive_Samples" target="oxyS" />
+    <edge source="test_positive_Samples" target="nadE" />
+    <edge source="test_positive_Samples" target="aprB" />
+    <edge source="test_positive_Samples" target="mmpL8" />
+    <edge source="test_positive_Samples" target="secD" />
+    <edge source="test_positive_Samples" target="guaB2" />
+    <edge source="test_positive_Samples" target="nrdZ" />
+    <edge source="test_positive_Samples" target="ctpH" />
+    <edge source="test_positive_Samples" target="pks4" />
+    <edge source="test_positive_Samples" target="cobO" />
+    <edge source="test_positive_Samples" target="cysG" />
+    <edge source="test_positive_Samples" target="cobN" />
+    <edge source="test_positive_Samples" target="fadD24" />
+    <edge source="test_positive_Samples" target="accA1" />
+    <edge source="test_positive_Samples" target="eccB3" />
+    <edge source="test_positive_Samples" target="pmmA" />
+    <edge source="test_positive_Samples" target="cobG" />
+    <edge source="test_positive_Samples" target="cyp126" />
+    <edge source="test_positive_Samples" target="gpdA2" />
+    <edge source="test_positive_Samples" target="aftB" />
+    <edge source="test_positive_Samples" target="ppsE" />
+    <edge source="test_positive_Samples" target="eccC3" />
+    <edge source="test_positive_Samples" target="ppsA" />
+    <edge source="test_positive_Samples" target="cobK" />
+    <edge source="test_positive_Samples" target="hisH" />
+    <edge source="test_positive_Samples" target="fadB" />
+    <edge source="test_positive_Samples" target="pks2" />
+    <edge source="test_positive_Samples" target="eccC2" />
+    <edge source="test_positive_Samples" target="recB" />
+    <edge source="test_positive_Samples" target="ligB" />
+    <edge source="test_positive_Samples" target="ctpJ" />
+    <edge source="test_positive_Samples" target="bglS" />
+    <edge source="test_positive_Samples" target="rpfB" />
+    <edge source="test_positive_Samples" target="pks17" />
+    <edge source="test_positive_Samples" target="gcvH" />
+    <edge source="test_positive_Samples" target="espG3" />
+    <edge source="test_positive_Samples" target="pta" />
+    <edge source="test_positive_Samples" target="sapM" />
+    <edge source="test_positive_Samples" target="ureC" />
+    <edge source="test_positive_Samples" target="dacB2" />
+    <edge source="test_positive_Samples" target="fadB2" />
+    <edge source="test_positive_Samples" target="amiD" />
+    <edge source="test_positive_Samples" target="eccD4" />
+    <edge source="test_positive_Samples" target="lppB" />
+    <edge source="test_positive_Samples" target="fadD5" />
+    <edge source="test_positive_Samples" target="eccB1" />
+    <edge source="test_positive_Samples" target="ftsY" />
+    <edge source="test_positive_Samples" target="eccA2" />
+    <edge source="test_positive_Samples" target="pks7" />
+    <edge source="test_positive_Samples" target="pknG" />
+    <edge source="test_positive_Samples" target="moaA1" />
+    <edge source="test_positive_Samples" target="pbpB" />
+    <edge source="test_positive_Samples" target="rplE" />
+    <edge source="test_positive_Samples" target="dipZ" />
+    <edge source="test_positive_Samples" target="scpA" />
+    <edge source="test_positive_Samples" target="rpfA" />
+    <edge source="test_positive_Samples" target="wbbL2" />
+    <edge source="test_positive_Samples" target="ctpD" />
+    <edge source="test_positive_Samples" target="lipJ" />
+    <edge source="test_positive_Samples" target="fadE23" />
+    <edge source="test_positive_Samples" target="fadE18" />
+    <edge source="test_positive_Samples" target="eccCa1" />
+    <edge source="test_positive_Samples" target="ppsB" />
+    <edge source="test_positive_Samples" target="eccD2" />
+    <edge source="test_positive_Samples" target="mpt64" />
+    <edge source="test_positive_Samples" target="gca" />
+    <edge source="test_positive_Samples" target="echA18" />
+    <edge source="test_positive_Samples" target="gshA" />
+    <edge source="test_positive_Samples" target="mbtF" />
+    <edge source="test_positive_Samples" target="pks9" />
+    <edge source="test_positive_Samples" target="atsB" />
+    <edge source="test_positive_Samples" target="pks12" />
+    <edge source="test_positive_Samples" target="acrA1" />
+    <edge source="test_negative_Samples" target="zwf1" />
+    <edge source="test_negative_Samples" target="iniC" />
+    <edge source="test_negative_Samples" target="esxF" />
+    <edge source="test_negative_Samples" target="mutA" />
+    <edge source="test_negative_Samples" target="devB" />
+    <edge source="test_negative_Samples" target="pks8" />
+    <edge source="test_negative_Samples" target="plsB1" />
+    <edge source="test_negative_Samples" target="pssA" />
+    <edge source="test_negative_Samples" target="lpqL" />
+    <edge source="test_negative_Samples" target="gmdA" />
+    <edge source="test_negative_Samples" target="ctpC" />
+    <edge source="test_negative_Samples" target="cmaA2" />
+    <edge source="test_negative_Samples" target="accD1" />
+    <edge source="test_negative_Samples" target="glpK" />
+    <edge source="test_negative_Samples" target="lprK" />
+    <edge source="test_negative_Samples" target="gyrB" />
+    <edge source="test_negative_Samples" target="lipU" />
+    <edge source="test_negative_Samples" target="mmpL12" />
+    <edge source="test_negative_Samples" target="carA" />
+    <edge source="test_negative_Samples" target="groEL1" />
+    <edge source="test_negative_Samples" target="purB" />
+    <edge source="test_negative_Samples" target="nrp" />
+    <edge source="test_negative_Samples" target="cobM" />
+    <edge source="test_negative_Samples" target="vapC1" />
+    <edge source="test_negative_Samples" target="eccC4" />
+    <edge source="test_negative_Samples" target="plsC" />
+    <edge source="test_negative_Samples" target="nth" />
+    <edge source="test_negative_Samples" target="fadD9" />
+    <edge source="test_negative_Samples" target="xerC" />
+    <edge source="test_negative_Samples" target="fadD31" />
+    <edge source="test_negative_Samples" target="fadD22" />
+    <edge source="test_negative_Samples" target="gid" />
+    <edge source="test_negative_Samples" target="fadE10" />
+    <edge source="test_negative_Samples" target="rpsA" />
+    <edge source="test_negative_Samples" target="mbtE" />
+    <edge source="test_negative_Samples" target="ask" />
+    <edge source="test_negative_Samples" target="rne" />
+    <edge source="test_negative_Samples" target="fadE4" />
+    <edge source="test_negative_Samples" target="mmpL9" />
+    <edge source="test_negative_Samples" target="rpoC" />
+    <edge source="test_negative_Samples" target="argS" />
+    <edge source="test_negative_Samples" target="fbpB" />
+    <edge source="test_negative_Samples" target="fadA6" />
+    <edge source="test_negative_Samples" target="cyp142" />
+    <edge source="test_negative_Samples" target="pepD" />
+    <edge source="test_negative_Samples" target="fadD30" />
+    <edge source="test_negative_Samples" target="mshB" />
+    <edge source="test_negative_Samples" target="espI" />
+    <edge source="test_negative_Samples" target="dnaJ1" />
+    <edge source="test_negative_Samples" target="kdpD" />
+    <edge source="test_negative_Samples" target="glgC" />
+    <edge source="test_negative_Samples" target="argG" />
+    <edge source="test_negative_Samples" target="gltB" />
+    <edge source="test_negative_Samples" target="lppR" />
+    <edge source="test_negative_Samples" target="ino1" />
+    <edge source="test_negative_Samples" target="lytB2" />
+    <edge source="test_negative_Samples" target="mmsA" />
+    <edge source="test_negative_Samples" target="mmpL10" />
+    <edge source="test_negative_Samples" target="nrdE" />
+    <edge source="test_negative_Samples" target="rpoB" />
+    <edge source="test_negative_Samples" target="recF" />
+    <edge source="test_negative_Samples" target="mazF1" />
+    <edge source="test_negative_Samples" target="aldA" />
+    <edge source="test_negative_Samples" target="ephE" />
+    <edge source="test_negative_Samples" target="htpG" />
+    <edge source="test_negative_Samples" target="mbtB" />
+    <edge source="test_negative_Samples" target="purH" />
+    <edge source="test_negative_Samples" target="mce2D" />
+    <edge source="test_negative_Samples" target="sigM" />
+    <edge source="test_negative_Samples" target="otsB1" />
+    <edge source="test_negative_Samples" target="rip" />
+    <edge source="test_negative_Samples" target="gabD1" />
+    <edge source="test_negative_Samples" target="vapB43" />
+    <edge source="test_negative_Samples" target="fadD29" />
+    <edge source="test_negative_Samples" target="cyp135B1" />
+    <edge source="test_negative_Samples" target="aroB" />
+    <edge source="test_negative_Samples" target="fadE29" />
+    <edge source="test_negative_Samples" target="fabG4" />
+    <edge source="test_negative_Samples" target="mbtJ" />
+    <edge source="test_negative_Samples" target="hycE" />
+    <edge source="test_negative_Samples" target="rocA" />
+    <edge source="test_negative_Samples" target="nadB" />
+    <edge source="test_negative_Samples" target="ppsC" />
+    <edge source="test_negative_Samples" target="echA10" />
+    <edge source="test_negative_Samples" target="glyA2" />
+    <edge source="test_negative_Samples" target="tesB1" />
+    <edge source="test_negative_Samples" target="trmU" />
+    <edge source="test_negative_Samples" target="lprD" />
+    <edge source="test_negative_Samples" target="arsB1" />
+    <edge source="test_negative_Samples" target="metH" />
+    <edge source="test_negative_Samples" target="mce1D" />
+    <edge source="test_negative_Samples" target="ugpE" />
+    <edge source="test_negative_Samples" target="gltS" />
+    <edge source="test_negative_Samples" target="mbtD" />
+    <edge source="test_negative_Samples" target="ctpB" />
+    <edge source="test_negative_Samples" target="grcC2" />
+    <edge source="test_negative_Samples" target="echA9" />
+    <edge source="test_negative_Samples" target="fadD25" />
+    <edge source="test_negative_Samples" target="fadE2" />
+    <edge source="test_negative_Samples" target="cydB" />
+    <edge source="test_negative_Samples" target="dapC" />
+    <edge source="test_negative_Samples" target="pknD" />
+    <edge source="test_negative_Samples" target="ctpI" />
+    <edge source="test_negative_Samples" target="ileS" />
+    <edge source="test_negative_Samples" target="aftA" />
+    <edge source="test_negative_Samples" target="espK" />
+    <edge source="test_negative_Samples" target="celA1" />
+    <edge source="test_negative_Samples" target="tkt" />
+    <edge source="test_negative_Samples" target="atsA" />
+    <edge source="test_negative_Samples" target="helZ" />
+    <edge source="test_negative_Samples" target="echA20" />
+    <edge source="test_negative_Samples" target="PE3" />
+    <edge source="test_negative_Samples" target="smc" />
+    <edge source="test_negative_Samples" target="espE" />
+    <edge source="test_negative_Samples" target="ilvG" />
+    <edge source="test_negative_Samples" target="moaE1" />
+    <edge source="test_negative_Samples" target="lppZ" />
+    <edge source="test_negative_Samples" target="gabD2" />
+    <edge source="test_negative_Samples" target="acs" />
+    <edge source="test_negative_Samples" target="gmhA" />
+    <edge source="test_negative_Samples" target="katG" />
+    <edge source="test_negative_Samples" target="adh" />
+    <edge source="test_negative_Samples" target="narG" />
+    <edge source="test_negative_Samples" target="mce4D" />
+    <edge source="test_negative_Samples" target="moaR1" />
+    <edge source="test_negative_Samples" target="bioF2" />
+    <edge source="test_negative_Samples" target="pgmA" />
+    <edge source="test_negative_Samples" target="cyp138" />
+    <edge source="test_negative_Samples" target="mprB" />
+    <edge source="test_negative_Samples" target="mscL" />
+    <edge source="test_negative_Samples" target="nirB" />
+    <edge source="test_negative_Samples" target="fadH" />
+    <edge source="test_negative_Samples" target="cyp128" />
+    <edge source="test_negative_Samples" target="lhr" />
+    <edge source="test_negative_Samples" target="aofH" />
+    <edge source="test_negative_Samples" target="fprA" />
+    <edge source="test_negative_Samples" target="fadE24" />
+    <edge source="test_negative_Samples" target="mmpL2" />
+    <edge source="test_negative_Samples" target="pknK" />
+    <edge source="test_negative_Samples" target="echA14" />
+    <edge source="test_negative_Samples" target="frdD" />
+    <edge source="test_negative_Samples" target="ilvA" />
+    <edge source="test_negative_Samples" target="hycQ" />
+    <edge source="test_negative_Samples" target="ppsD" />
+    <edge source="test_negative_Samples" target="recC" />
+    <edge source="test_negative_Samples" target="dnaB" />
+    <edge source="test_negative_Samples" target="uvrD1" />
+    <edge source="test_negative_Samples" target="phoH1" />
+    <edge source="test_negative_Samples" target="ligD" />
+    <edge source="test_negative_Samples" target="fusA2" />
+    <edge source="test_negative_Samples" target="phoR" />
+    <edge source="test_negative_Samples" target="aftD" />
+    <edge source="test_negative_Samples" target="glgP" />
+    <edge source="test_negative_Samples" target="fadE34" />
+    <edge source="test_negative_Samples" target="carB" />
+    <edge source="test_negative_Samples" target="priA" />
+    <edge source="test_negative_Samples" target="ctpA" />
+    <edge source="test_negative_Samples" target="gmhB" />
+    <edge source="test_negative_Samples" target="dinF" />
+    <edge source="test_negative_Samples" target="hemE" />
+    <edge source="test_negative_Samples" target="PE4" />
+    <edge source="test_negative_Samples" target="rpsN2" />
+    <edge source="test_negative_Samples" target="nanT" />
+    <edge source="test_negative_Samples" target="mmpL5" />
+    <edge source="test_negative_Samples" target="pks5" />
+    <edge source="test_negative_Samples" target="irtA" />
+    <edge source="test_negative_Samples" target="cysE" />
+    <edge source="test_negative_Samples" target="murB" />
+    <edge source="test_negative_Samples" target="ethA" />
+    <edge source="test_negative_Samples" target="vapC37" />
+    <edge source="test_negative_Samples" target="speE" />
+    <edge source="test_negative_Samples" target="stp" />
+    <edge source="test_negative_Samples" target="moeY" />
+    <edge source="test_negative_Samples" target="ctpF" />
+    <edge source="test_negative_Samples" target="fadA3" />
+    <edge source="test_negative_Samples" target="lprA" />
+    <edge source="test_negative_Samples" target="mmpL1" />
+    <edge source="test_negative_Samples" target="pheT" />
+    <edge source="test_negative_Samples" target="leuS" />
+    <edge source="test_negative_Samples" target="pks1" />
+    <edge source="test_negative_Samples" target="eccE1" />
+    <edge source="test_negative_Samples" target="pknB" />
+    <edge source="test_negative_Samples" target="ltp4" />
+    <edge source="test_negative_Samples" target="treX" />
+    <edge source="test_negative_Samples" target="aao" />
+    <edge source="test_negative_Samples" target="pks15" />
+    <edge source="test_negative_Samples" target="lipD" />
+    <edge source="test_negative_Samples" target="pncB2" />
+    <edge source="test_negative_Samples" target="ilvB2" />
+    <edge source="test_negative_Samples" target="mas" />
+    <edge source="test_negative_Samples" target="amiC" />
+    <edge source="test_negative_Samples" target="pimE" />
+    <edge source="test_negative_Samples" target="pks6" />
+    <edge source="test_negative_Samples" target="eccCb1" />
+    <edge source="test_negative_Samples" target="mce1C" />
+    <edge source="test_negative_Samples" target="atsD" />
+    <edge source="test_negative_Samples" target="gyrA" />
+    <edge source="test_negative_Samples" target="iniB" />
+    <edge source="test_negative_Samples" target="gltD" />
+    <edge source="test_negative_Samples" target="mqo" />
+    <edge source="test_negative_Samples" target="dinX" />
+    <edge source="test_negative_Samples" target="fadD4" />
+    <edge source="test_negative_Samples" target="gdh" />
+    <edge source="test_negative_Samples" target="rbsK" />
+    <edge source="test_negative_Samples" target="thyA" />
+    <edge source="test_negative_Samples" target="fadD34" />
+    <edge source="test_negative_Samples" target="cysD" />
+    <edge source="test_negative_Samples" target="treZ" />
+    <edge source="test_negative_Samples" target="oplA" />
+    <edge source="test_negative_Samples" target="ppgK" />
+    <edge source="test_negative_Samples" target="gpdA1" />
+    <edge source="test_negative_Samples" target="alkB" />
+    <edge source="test_negative_Samples" target="ppk1" />
+    <edge source="test_negative_Samples" target="fadA2" />
+    <edge source="test_negative_Samples" target="pks13" />
+    <edge source="test_negative_Samples" target="lat" />
+    <edge source="test_negative_Samples" target="moaC1" />
+    <edge source="test_negative_Samples" target="ctpV" />
+    <edge source="test_negative_Samples" target="zwf2" />
+    <edge source="test_negative_Samples" target="fadE5" />
+    <edge source="test_negative_Samples" target="eccD1" />
+    <edge source="test_negative_Samples" target="trpD" />
+    <edge source="test_negative_Samples" target="lipI" />
+    <edge source="test_negative_Samples" target="mycP1" />
+    <edge source="test_negative_Samples" target="fbpC" />
+    <edge source="test_negative_Samples" target="polA" />
+    <edge source="test_negative_Samples" target="gnd1" />
+    <edge source="test_negative_Samples" target="kstD" />
+    <edge source="test_negative_Samples" target="malQ" />
+    <edge source="test_negative_Samples" target="hycP" />
+    <edge source="test_negative_Samples" target="egtC" />
+    <edge source="test_negative_Samples" target="folC" />
+    <edge source="test_negative_Samples" target="fas" />
+    <edge source="test_negative_Samples" target="treY" />
+    <edge source="test_negative_Samples" target="secA2" />
+    <edge source="test_negative_Samples" target="pncA" />
+    <edge source="test_negative_Samples" target="sseB" />
+    <edge source="test_negative_Samples" target="oxyS" />
+    <edge source="test_negative_Samples" target="esxW" />
+    <edge source="test_negative_Samples" target="nadE" />
+    <edge source="test_negative_Samples" target="mmpL8" />
+    <edge source="test_negative_Samples" target="secD" />
+    <edge source="test_negative_Samples" target="guaB2" />
+    <edge source="test_negative_Samples" target="nrdZ" />
+    <edge source="test_negative_Samples" target="ctpH" />
+    <edge source="test_negative_Samples" target="pks4" />
+    <edge source="test_negative_Samples" target="cobN" />
+    <edge source="test_negative_Samples" target="fadD24" />
+    <edge source="test_negative_Samples" target="accA1" />
+    <edge source="test_negative_Samples" target="esxK" />
+    <edge source="test_negative_Samples" target="cobG" />
+    <edge source="test_negative_Samples" target="cyp126" />
+    <edge source="test_negative_Samples" target="gpdA2" />
+    <edge source="test_negative_Samples" target="aftB" />
+    <edge source="test_negative_Samples" target="nat" />
+    <edge source="test_negative_Samples" target="ppsE" />
+    <edge source="test_negative_Samples" target="eccC3" />
+    <edge source="test_negative_Samples" target="ppsA" />
+    <edge source="test_negative_Samples" target="cobK" />
+    <edge source="test_negative_Samples" target="fadB" />
+    <edge source="test_negative_Samples" target="pks2" />
+    <edge source="test_negative_Samples" target="eccC2" />
+    <edge source="test_negative_Samples" target="recB" />
+    <edge source="test_negative_Samples" target="ctpJ" />
+    <edge source="test_negative_Samples" target="bglS" />
+    <edge source="test_negative_Samples" target="rpfB" />
+    <edge source="test_negative_Samples" target="pks17" />
+    <edge source="test_negative_Samples" target="pta" />
+    <edge source="test_negative_Samples" target="ureC" />
+    <edge source="test_negative_Samples" target="amiD" />
+    <edge source="test_negative_Samples" target="eccD4" />
+    <edge source="test_negative_Samples" target="lppB" />
+    <edge source="test_negative_Samples" target="fadD5" />
+    <edge source="test_negative_Samples" target="eccB1" />
+    <edge source="test_negative_Samples" target="eccA2" />
+    <edge source="test_negative_Samples" target="pks7" />
+    <edge source="test_negative_Samples" target="pknG" />
+    <edge source="test_negative_Samples" target="moaA1" />
+    <edge source="test_negative_Samples" target="pbpB" />
+    <edge source="test_negative_Samples" target="rplE" />
+    <edge source="test_negative_Samples" target="dipZ" />
+    <edge source="test_negative_Samples" target="rpfA" />
+    <edge source="test_negative_Samples" target="scpA" />
+    <edge source="test_negative_Samples" target="ctpD" />
+    <edge source="test_negative_Samples" target="orn" />
+    <edge source="test_negative_Samples" target="lipJ" />
+    <edge source="test_negative_Samples" target="fadE23" />
+    <edge source="test_negative_Samples" target="eccCa1" />
+    <edge source="test_negative_Samples" target="ppsB" />
+    <edge source="test_negative_Samples" target="eccD2" />
+    <edge source="test_negative_Samples" target="mpt64" />
+    <edge source="test_negative_Samples" target="gca" />
+    <edge source="test_negative_Samples" target="echA18" />
+    <edge source="test_negative_Samples" target="gshA" />
+    <edge source="test_negative_Samples" target="mbtF" />
+    <edge source="test_negative_Samples" target="pks9" />
+    <edge source="test_negative_Samples" target="atsB" />
+    <edge source="test_negative_Samples" target="pks12" />
+    <edge source="test_negative_Samples" target="acrA1" />
+    <edge source="test_negative_Samples" target="pdc" />
+  </graph>
+</graphml>
