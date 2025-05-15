@@ -195,8 +195,7 @@ Usage:
 
 Finally, to generate the network files, run the following command:
 ```bash
-python FuNTB.py test_network test_dictionary.txt 3 0.9385527090157504 0.0007787658410143285 0.060668525143235286 
-test_positive_Samples.txt test_negative_Samples.txt
+python FuNTB.py test_network test_dictionary.txt 3 0.9385527090157504 0.0007787658410143285 0.060668525143235286 test_positive_Samples.txt test_negative_Samples.txt
 ```
 This will generate three XML-network format files which you can find within the Networks_files directory.
 
