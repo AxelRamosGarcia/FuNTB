@@ -143,7 +143,7 @@ Expected Output:
 
 Once located within the FunTB directory the first step is to generate the variation dictionary file from MTBSeq V.0.1 output, in order to do this, run the following command:
 ```bash
-python FunTB_dictionary.py MTBseq_file.tab test_clinical_data.csv
+python FunTB_dictionary.py MTBseq_file.tab dictionary_clinical_test_data.csv
 ```
 or
 
