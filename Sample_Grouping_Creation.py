@@ -51,11 +51,9 @@ def get_filters_conditions(df, group, column_name, filter_conditions):
     return filter_conditions
 
 def save_group_Ids(file_name, samples_Ids):
-    """
-    Saves sample IDs to a file, one per line.
-    """
     with open(file_name + ".txt", "w") as output:
-        output.write("\n".join(map(str, samples_Ids)))
+        # Write as a Python list with quoted strings
+        output.write("[\n" + ",\n".join([f"    '{id}'" for id in samples_Ids]) + "\n]")
 
 def get_groups_names(number_of_groups):
     """

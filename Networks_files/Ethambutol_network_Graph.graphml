@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="node" attr.name="size" attr.type="float" />
+  <key id="d1" for="node" attr.name="color" attr.type="string" />
+  <key id="d0" for="node" attr.name="size" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="concordant">
+      <data key="d0">10000.0</data>
+      <data key="d1">#987695</data>
+    </node>
+    <node id="discordant">
+      <data key="d0">10000.0</data>
+      <data key="d1">#d9b946</data>
+    </node>
+    <node id="pncA">
+      <data key="d1">#a2a455</data>
+      <data key="d2">1556.0</data>
+    </node>
+    <node id="mce2C">
+      <data key="d1">#987695</data>
+      <data key="d2">1333.6</data>
+    </node>
+    <node id="pyrG">
+      <data key="d1">#987695</data>
+      <data key="d2">400.0</data>
+    </node>
+    <node id="hisC2">
+      <data key="d1">#987695</data>
+      <data key="d2">1333.6</data>
+    </node>
+    <node id="argH">
+      <data key="d1">#987695</data>
+      <data key="d2">2000.0</data>
+    </node>
+    <node id="pks8">
+      <data key="d1">#987695</data>
+      <data key="d2">285.6</data>
+    </node>
+    <node id="mez">
+      <data key="d1">#987695</data>
+      <data key="d2">2000.0</data>
+    </node>
+    <node id="PE1">
+      <data key="d1">#987695</data>
+      <data key="d2">1333.6</data>
+    </node>
+    <node id="lppN">
+      <data key="d1">#987695</data>
+      <data key="d2">2000.0</data>
+    </node>
+    <node id="psd">
+      <data key="d1">#987695</data>
+      <data key="d2">4000.0</data>
+    </node>
+    <node id="serA2">
+      <data key="d1">#987695</data>
+      <data key="d2">4000.0</data>
+    </node>
+    <node id="katG">
+      <data key="d1">#987695</data>
+      <data key="d2">800.0</data>
+    </node>
+    <node id="sseB">
+      <data key="d1">#987695</data>
+      <data key="d2">4000.0</data>
+    </node>
+    <node id="ppsD">
+      <data key="d1">#987695</data>
+      <data key="d2">500.0</data>
+    </node>
+    <node id="TB18.6">
+      <data key="d1">#987695</data>
+      <data key="d2">2000.0</data>
+    </node>
+    <node id="mmaA4">
+      <data key="d1">#987695</data>
+      <data key="d2">4000.0</data>
+    </node>
+    <node id="ppm1">
+      <data key="d1">#987695</data>
+      <data key="d2">1000.0</data>
+    </node>
+    <node id="ligC">
+      <data key="d1">#987695</data>
+      <data key="d2">1000.0</data>
+    </node>
+    <node id="iniA">
+      <data key="d1">#987695</data>
+      <data key="d2">2000.0</data>
+    </node>
+    <node id="mmpL8">
+      <data key="d1">#987695</data>
+      <data key="d2">2500.0</data>
+    </node>
+    <node id="galE2">
+      <data key="d1">#987695</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="pflA">
+      <data key="d1">#987695</data>
+      <data key="d2">2000.0</data>
+    </node>
+    <node id="PE4">
+      <data key="d1">#987695</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="lpqP">
+      <data key="d1">#987695</data>
+      <data key="d2">1000.0</data>
+    </node>
+    <node id="xylB">
+      <data key="d1">#987695</data>
+      <data key="d2">3000.0</data>
+    </node>
+    <node id="arsC">
+      <data key="d1">#987695</data>
+      <data key="d2">500.0</data>
+    </node>
+    <node id="pks2">
+      <data key="d1">#987695</data>
+      <data key="d2">800.0</data>
+    </node>
+    <node id="glgB">
+      <data key="d1">#a2a455</data>
+      <data key="d2">3000.0</data>
+    </node>
+    <node id="mmpL12">
+      <data key="d1">#a2a455</data>
+      <data key="d2">908.8</data>
+    </node>
+    <node id="lhr">
+      <data key="d1">#a2a455</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="mce2A">
+      <data key="d1">#987695</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="rpoB">
+      <data key="d1">#987695</data>
+      <data key="d2">545.6</data>
+    </node>
+    <node id="pmmB">
+      <data key="d1">#987695</data>
+      <data key="d2">2666.4</data>
+    </node>
+    <node id="bioF1">
+      <data key="d1">#987695</data>
+      <data key="d2">5000.0</data>
+    </node>
+    <node id="deaD">
+      <data key="d1">#987695</data>
+      <data key="d2">2000.0</data>
+    </node>
+    <node id="eccA1">
+      <data key="d1">#987695</data>
+      <data key="d2">1200.0</data>
+    </node>
+    <node id="narX">
+      <data key="d1">#987695</data>
+      <data key="d2">1500.0</data>
+    </node>
+    <node id="pks5">
+      <data key="d1">#a2a455</data>
+      <data key="d2">1556.0</data>
+    </node>
+    <node id="fadD34">
+      <data key="d1">#a2a455</data>
+      <data key="d2">2000.0</data>
+    </node>
+    <node id="embC">
+      <data key="d1">#987695</data>
+      <data key="d2">1600.0</data>
+    </node>
+    <node id="dosT">
+      <data key="d1">#987695</data>
+      <data key="d2">500.0</data>
+    </node>
+    <node id="dppA">
+      <data key="d1">#a2a455</data>
+      <data key="d2">1666.4</data>
+    </node>
+    <node id="lysX">
+      <data key="d1">#987695</data>
+      <data key="d2">800.0</data>
+    </node>
+    <node id="atsD">
+      <data key="d1">#987695</data>
+      <data key="d2">1000.0</data>
+    </node>
+    <node id="pstP">
+      <data key="d1">#987695</data>
+      <data key="d2">3000.0</data>
+    </node>
+    <node id="glgP">
+      <data key="d1">#987695</data>
+      <data key="d2">1000.0</data>
+    </node>
+    <node id="cobN">
+      <data key="d1">#987695</data>
+      <data key="d2">400.0</data>
+    </node>
+    <node id="embB">
+      <data key="d1">#a2a455</data>
+      <data key="d2">2444.8</data>
+    </node>
+    <node id="ligD">
+      <data key="d1">#987695</data>
+      <data key="d2">800.0</data>
+    </node>
+    <node id="eccA2">
+      <data key="d1">#a2a455</data>
+      <data key="d2">333.6</data>
+    </node>
+    <node id="eccB1">
+      <data key="d1">#987695</data>
+      <data key="d2">400.0</data>
+    </node>
+    <node id="fhaA">
+      <data key="d1">#987695</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="eno">
+      <data key="d1">#987695</data>
+      <data key="d2">4000.0</data>
+    </node>
+    <node id="trpG">
+      <data key="d1">#987695</data>
+      <data key="d2">3333.6</data>
+    </node>
+    <node id="pknG">
+      <data key="d1">#a2a455</data>
+      <data key="d2">3333.6</data>
+    </node>
+    <node id="ctpI">
+      <data key="d1">#987695</data>
+      <data key="d2">1333.6</data>
+    </node>
+    <node id="cyp144">
+      <data key="d1">#987695</data>
+      <data key="d2">1200.0</data>
+    </node>
+    <node id="rpoC">
+      <data key="d1">#a2a455</data>
+      <data key="d2">500.0</data>
+    </node>
+    <node id="eccC3">
+      <data key="d1">#a2a455</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="ppsE">
+      <data key="d1">#a2a455</data>
+      <data key="d2">1200.0</data>
+    </node>
+    <node id="ribG">
+      <data key="d1">#987695</data>
+      <data key="d2">4000.0</data>
+    </node>
+    <node id="pks1">
+      <data key="d1">#987695</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="papA1">
+      <data key="d1">#987695</data>
+      <data key="d2">1200.0</data>
+    </node>
+    <node id="lppA">
+      <data key="d1">#987695</data>
+      <data key="d2">1000.0</data>
+    </node>
+    <node id="dnaQ">
+      <data key="d1">#987695</data>
+      <data key="d2">3333.6</data>
+    </node>
+    <node id="pheT">
+      <data key="d1">#987695</data>
+      <data key="d2">1000.0</data>
+    </node>
+    <node id="gid">
+      <data key="d1">#a2a455</data>
+      <data key="d2">181.6</data>
+    </node>
+    <node id="gyrA">
+      <data key="d1">#a2a455</data>
+      <data key="d2">1142.4</data>
+    </node>
+    <node id="fas">
+      <data key="d1">#987695</data>
+      <data key="d2">1600.0</data>
+    </node>
+    <node id="ubiA">
+      <data key="d1">#a2a455</data>
+      <data key="d2">1142.4</data>
+    </node>
+    <node id="plcB">
+      <data key="d1">#987695</data>
+      <data key="d2">666.4</data>
+    </node>
+    <node id="pks7">
+      <data key="d1">#a2a455</data>
+      <data key="d2">800.0</data>
+    </node>
+    <node id="fadD7">
+      <data key="d1">#987695</data>
+      <data key="d2">6000.0</data>
+    </node>
+    <node id="ctpV">
+      <data key="d1">#987695</data>
+      <data key="d2">1500.0</data>
+    </node>
+    <node id="polA">
+      <data key="d1">#987695</data>
+      <data key="d2">3000.0</data>
+    </node>
+    <node id="rpfC">
+      <data key="d1">#987695</data>
+      <data key="d2">8000.0</data>
+    </node>
+    <node id="carB">
+      <data key="d1">#a2a455</data>
+      <data key="d2">1333.6</data>
+    </node>
+    <node id="eccE1">
+      <data key="d1">#987695</data>
+      <data key="d2">2000.0</data>
+    </node>
+    <node id="oppA">
+      <data key="d1">#987695</data>
+      <data key="d2">3000.0</data>
+    </node>
+    <node id="lppD">
+      <data key="d1">#a2a455</data>
+      <data key="d2">800.0</data>
+    </node>
+    <node id="ppsA">
+      <data key="d1">#a2a455</data>
+      <data key="d2">1000.0</data>
+    </node>
+    <node id="hisI">
+      <data key="d1">#987695</data>
+      <data key="d2">8000.0</data>
+    </node>
+    <node id="pknA">
+      <data key="d1">#987695</data>
+      <data key="d2">5000.0</data>
+    </node>
+    <node id="pks12">
+      <data key="d1">#a2a455</data>
+      <data key="d2">249.6</data>
+    </node>
+    <node id="fadD15">
+      <data key="d1">#987695</data>
+      <data key="d2">3333.6</data>
+    </node>
+    <node id="ureA">
+      <data key="d1">#d9b946</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="murF">
+      <data key="d1">#d9b946</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="argJ">
+      <data key="d1">#d9b946</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="desA3">
+      <data key="d1">#d9b946</data>
+      <data key="d2">8000.0</data>
+    </node>
+    <node id="rpsF">
+      <data key="d1">#d9b946</data>
+      <data key="d2">2000.0</data>
+    </node>
+    <edge source="concordant" target="pncA" />
+    <edge source="concordant" target="mce2C" />
+    <edge source="concordant" target="pyrG" />
+    <edge source="concordant" target="hisC2" />
+    <edge source="concordant" target="argH" />
+    <edge source="concordant" target="pks8" />
+    <edge source="concordant" target="mez" />
+    <edge source="concordant" target="PE1" />
+    <edge source="concordant" target="lppN" />
+    <edge source="concordant" target="psd" />
+    <edge source="concordant" target="serA2" />
+    <edge source="concordant" target="katG" />
+    <edge source="concordant" target="sseB" />
+    <edge source="concordant" target="ppsD" />
+    <edge source="concordant" target="TB18.6" />
+    <edge source="concordant" target="mmaA4" />
+    <edge source="concordant" target="ppm1" />
+    <edge source="concordant" target="ligC" />
+    <edge source="concordant" target="iniA" />
+    <edge source="concordant" target="mmpL8" />
+    <edge source="concordant" target="galE2" />
+    <edge source="concordant" target="pflA" />
+    <edge source="concordant" target="PE4" />
+    <edge source="concordant" target="lpqP" />
+    <edge source="concordant" target="xylB" />
+    <edge source="concordant" target="arsC" />
+    <edge source="concordant" target="pks2" />
+    <edge source="concordant" target="glgB" />
+    <edge source="concordant" target="mmpL12" />
+    <edge source="concordant" target="lhr" />
+    <edge source="concordant" target="mce2A" />
+    <edge source="concordant" target="rpoB" />
+    <edge source="concordant" target="pmmB" />
+    <edge source="concordant" target="bioF1" />
+    <edge source="concordant" target="deaD" />
+    <edge source="concordant" target="eccA1" />
+    <edge source="concordant" target="narX" />
+    <edge source="concordant" target="pks5" />
+    <edge source="concordant" target="fadD34" />
+    <edge source="concordant" target="embC" />
+    <edge source="concordant" target="dosT" />
+    <edge source="concordant" target="dppA" />
+    <edge source="concordant" target="lysX" />
+    <edge source="concordant" target="atsD" />
+    <edge source="concordant" target="pstP" />
+    <edge source="concordant" target="glgP" />
+    <edge source="concordant" target="cobN" />
+    <edge source="concordant" target="embB" />
+    <edge source="concordant" target="ligD" />
+    <edge source="concordant" target="eccA2" />
+    <edge source="concordant" target="eccB1" />
+    <edge source="concordant" target="fhaA" />
+    <edge source="concordant" target="eno" />
+    <edge source="concordant" target="trpG" />
+    <edge source="concordant" target="pknG" />
+    <edge source="concordant" target="ctpI" />
+    <edge source="concordant" target="cyp144" />
+    <edge source="concordant" target="rpoC" />
+    <edge source="concordant" target="eccC3" />
+    <edge source="concordant" target="ppsE" />
+    <edge source="concordant" target="ribG" />
+    <edge source="concordant" target="pks1" />
+    <edge source="concordant" target="papA1" />
+    <edge source="concordant" target="lppA" />
+    <edge source="concordant" target="dnaQ" />
+    <edge source="concordant" target="pheT" />
+    <edge source="concordant" target="gid" />
+    <edge source="concordant" target="gyrA" />
+    <edge source="concordant" target="fas" />
+    <edge source="concordant" target="ubiA" />
+    <edge source="concordant" target="plcB" />
+    <edge source="concordant" target="pks7" />
+    <edge source="concordant" target="fadD7" />
+    <edge source="concordant" target="ctpV" />
+    <edge source="concordant" target="polA" />
+    <edge source="concordant" target="rpfC" />
+    <edge source="concordant" target="carB" />
+    <edge source="concordant" target="eccE1" />
+    <edge source="concordant" target="oppA" />
+    <edge source="concordant" target="lppD" />
+    <edge source="concordant" target="ppsA" />
+    <edge source="concordant" target="hisI" />
+    <edge source="concordant" target="pknA" />
+    <edge source="concordant" target="pks12" />
+    <edge source="concordant" target="fadD15" />
+    <edge source="discordant" target="pncA" />
+    <edge source="discordant" target="carB" />
+    <edge source="discordant" target="ureA" />
+    <edge source="discordant" target="murF" />
+    <edge source="discordant" target="argJ" />
+    <edge source="discordant" target="dppA" />
+    <edge source="discordant" target="desA3" />
+    <edge source="discordant" target="gid" />
+    <edge source="discordant" target="gyrA" />
+    <edge source="discordant" target="embB" />
+    <edge source="discordant" target="lppD" />
+    <edge source="discordant" target="ubiA" />
+    <edge source="discordant" target="eccA2" />
+    <edge source="discordant" target="ppsA" />
+    <edge source="discordant" target="glgB" />
+    <edge source="discordant" target="mmpL12" />
+    <edge source="discordant" target="rpsF" />
+    <edge source="discordant" target="lhr" />
+    <edge source="discordant" target="pks12" />
+    <edge source="discordant" target="pks7" />
+    <edge source="discordant" target="pknG" />
+    <edge source="discordant" target="rpoC" />
+    <edge source="discordant" target="eccC3" />
+    <edge source="discordant" target="ppsE" />
+    <edge source="discordant" target="pks5" />
+    <edge source="discordant" target="fadD34" />
+  </graph>
+</graphml>
